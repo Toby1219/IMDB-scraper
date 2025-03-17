@@ -3,14 +3,18 @@
 Utilizes libraries like playwright, dataclasses, fake_useragent, and pandas.
 Data Class:
 
-**Movies:** Defines the structure for storing movie data including attributes like Movie_Id, Movie_Name, Movie_type, Release_Date, Rating, etc.
+**Movies:** 
+
+Defines the structure for storing movie data including attributes like Movie_Id, Movie_Name, Movie_type, Release_Date, Rating, etc.
 BotOne Class:
 
 **Initialization:**
+
 Initializes with parameters for movie date range, movie type, and genre.
 Constructs the URL for scraping based on these parameters.
 
 **Methods:**
+
 formart_pram: Formats movie type and genre for URL construction.
 
 parseUrl: Constructs the IMDb search URL.
