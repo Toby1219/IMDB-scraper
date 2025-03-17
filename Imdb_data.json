@@ -1,0 +1,3436 @@
+[
+    {
+        "Movie_Id":1,
+        "Movie_Name":"Sonic the Hedgehog 3",
+        "Movie_type":"PG",
+        "Release_Date":"2024",
+        "Rateing":"6.9",
+        "Reviews":"52K",
+        "Movie_Runtime":"1h 50m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched, Team Sonic must seek out an unlikely alliance.",
+        "Metacritic":"56 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt18259086\/?ref_=sr_i_1"
+    },
+    {
+        "Movie_Id":2,
+        "Movie_Name":"Borderlands",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"4.7",
+        "Reviews":"45K",
+        "Movie_Runtime":"1h 41m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An infamous bounty hunter returns to her childhood home, the chaotic planet Pandora, and forms an unlikely alliance with a team of misfits to find the missing daughter of the most powerful man in the universe.",
+        "Metacritic":"26 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMDhkMzQzZmQtOGQ1NS00Y2FhLTkzYjAtNWE1MmRiOWM1MjUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt4978420\/?ref_=sr_i_2"
+    },
+    {
+        "Movie_Id":3,
+        "Movie_Name":"Deadpool & Wolverine",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"7.6",
+        "Reviews":"479K",
+        "Movie_Runtime":"2h 8m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
+        "Metacritic":"56 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt6263850\/?ref_=sr_i_3"
+    },
+    {
+        "Movie_Id":4,
+        "Movie_Name":"The Ministry of Ungentlemanly Warfare",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"6.8",
+        "Reviews":"131K",
+        "Movie_Runtime":"2h 2m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
+        "Metacritic":"55 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYmIxODc5ZjMtYzZmZS00OTE5LThkZDktNWNmODNiZjFhMDgyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt5177120\/?ref_=sr_i_4"
+    },
+    {
+        "Movie_Id":5,
+        "Movie_Name":"The Fall Guy",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"6.8",
+        "Reviews":"216K",
+        "Movie_Runtime":"2h 6m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A stuntman, fresh off an almost career-ending accident, has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+        "Metacritic":"73 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BM2U0MTJiYTItMjNiZS00MzU4LTkxYTAtYTU0ZGY1ODJhMjRhXkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt1684562\/?ref_=sr_i_5"
+    },
+    {
+        "Movie_Id":6,
+        "Movie_Name":"Red One",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"6.3",
+        "Reviews":"137K",
+        "Movie_Runtime":"2h 3m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After Santa Claus is kidnapped, the North Pole's Head of Security must team up with a notorious hacker in a globe-trotting, action-packed mission to save Christmas.",
+        "Metacritic":"34 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZmFkMjE4NjQtZTVmZS00MDZjLWE2ZmEtZTkzODljNjhlNWUxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt14948432\/?ref_=sr_i_6"
+    },
+    {
+        "Movie_Id":7,
+        "Movie_Name":"Thelma",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"7.0",
+        "Reviews":"21K",
+        "Movie_Runtime":"1h 38m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+        "Metacritic":"77 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmE4OTc5ODAtMmEyOC00NTY5LWE5MGEtMDhkZjhiNzNhY2VjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt23778968\/?ref_=sr_i_7"
+    },
+    {
+        "Movie_Id":8,
+        "Movie_Name":"Old Guy",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"5.1",
+        "Reviews":"1.6K",
+        "Movie_Runtime":"1h 34m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Follows a contract killer facing the end of his career who is thrilled when The Company pulls him back into the field training Gen Z newcomer: Wihlborg, a prodigy assassin with an attitude.",
+        "Metacritic":"33 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOGM4NzRiNTAtNDQxNy00YjBmLTg3NjMtNDE4MjVlYzUyMmIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt26442053\/?ref_=sr_i_8"
+    },
+    {
+        "Movie_Id":9,
+        "Movie_Name":"Bad Boys: Ride or Die",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"6.5",
+        "Reviews":"98K",
+        "Movie_Runtime":"1h 55m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+        "Metacritic":"54 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZWNjZWUwNDgtYTM4ZC00Zjk0LTg3ZWItNGEyZmVkZTIxZDk0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt4919268\/?ref_=sr_i_9"
+    },
+    {
+        "Movie_Id":10,
+        "Movie_Name":"Argylle",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"5.6",
+        "Reviews":"91K",
+        "Movie_Runtime":"2h 19m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A reclusive author who writes espionage novels about a secret agent and a global spy syndicate realizes that the plot of the new book she's writing starts to mirror real-world events in real time.",
+        "Metacritic":"35 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDkzMTU2OWUtZjA2ZS00ZmYxLWE2MzgtZDlhZDc1YjM4Yjk5XkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt15009428\/?ref_=sr_i_10"
+    },
+    {
+        "Movie_Id":11,
+        "Movie_Name":"The Union",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"5.4",
+        "Reviews":"52K",
+        "Movie_Runtime":"1h 47m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Construction worker Mike is thrust into the world of espionage when his high school sweetheart, Roxanne, recruits him for a high-stakes intelligence mission.",
+        "Metacritic":"44 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BY2I0YmNiNmEtNWI2My00NDU5LWIwZWItNWNkNjFmYWJjNTMxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt12610390\/?ref_=sr_i_11"
+    },
+    {
+        "Movie_Id":12,
+        "Movie_Name":"Freaky Tales",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"6.4",
+        "Reviews":"363",
+        "Movie_Runtime":"1h 46m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Four interconnected stories set in 1987 Oakland, CA. will tell about the love of music, movies, people, places and memories beyond our knowable universe.",
+        "Metacritic":"58 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOTYyNmYyN2EtYTFjNS00ZWY5LWJiZmMtNTk5N2MyYzkzMDhmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt21942598\/?ref_=sr_i_12"
+    },
+    {
+        "Movie_Id":13,
+        "Movie_Name":"The Killer's Game",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"5.7",
+        "Reviews":"16K",
+        "Movie_Runtime":"1h 44m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When a hitman is diagnosed with a terminal illness, he decides to take a hit out on himself. But when the very hitmen he hired also target his ex-girlfriend, he must fend off an army of assassin colleagues.",
+        "Metacritic":"36 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BODg4MTBiOGQtN2I5Yi00MWY2LWI1ODktZTUzZjhlYmZjMjFkXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt0327785\/?ref_=sr_i_13"
+    },
+    {
+        "Movie_Id":14,
+        "Movie_Name":"Drive-Away Dolls",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"5.4",
+        "Reviews":"23K",
+        "Movie_Runtime":"1h 24m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Jamie regrets her breakup with her girlfriend, while Marian needs to relax. In search of a fresh start, they embark on an unexpected road trip to Tallahassee. Things quickly go awry when they cross paths with a group of inept criminals.",
+        "Metacritic":"56 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDFmNzc4OGItNWRiZS00Mzc0LWE4MjgtNjMzZTEzN2ZjNWY5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt19356262\/?ref_=sr_i_14"
+    },
+    {
+        "Movie_Id":15,
+        "Movie_Name":"Kung Fu Panda 4",
+        "Movie_type":"PG",
+        "Release_Date":"2024",
+        "Rateing":"6.3",
+        "Reviews":"66K",
+        "Movie_Runtime":"1h 34m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit realm.",
+        "Metacritic":"54 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMzJlNGYxYzQtOTg4MC00OTMyLTkwYzMtZDRlNTgwY2YwOWYxXkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt21692408\/?ref_=sr_i_15"
+    },
+    {
+        "Movie_Id":16,
+        "Movie_Name":"Lift",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"5.5",
+        "Reviews":"49K",
+        "Movie_Runtime":"1h 47m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Follows a master thief and his Interpol Agent ex-girlfriend who team up to steal $500 million in gold bullion being transported on an A380 passenger flight.",
+        "Metacritic":"40 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOWRkYmNiNDUtYTY0OC00YTZlLTlmMTYtMTJhMTU4OTBkMDY5XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt14371878\/?ref_=sr_i_16"
+    },
+    {
+        "Movie_Id":17,
+        "Movie_Name":"Beverly Hills Cop: Axel F",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"6.4",
+        "Reviews":"80K",
+        "Movie_Runtime":"1h 58m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Axel Foley returns to Beverly Hills after his daughter's life is threatened for a family reunion that includes old pals John Taggart and Billy Rosewood to uncover a conspiracy.",
+        "Metacritic":"53 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMDVhYWNkNTUtZWVjMC00Y2M1LWEzNmItZjFiMzA4ZjNiODI4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt3083016\/?ref_=sr_i_17"
+    },
+    {
+        "Movie_Id":18,
+        "Movie_Name":"The Instigators",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"6.2",
+        "Reviews":"37K",
+        "Movie_Runtime":"1h 41m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Follows two robbers who must go on the run with the help of one of their therapists after a theft doesn't go as planned.",
+        "Metacritic":"48 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYTExNzBhOTAtOGIyYy00MzY5LWFjOWYtZDE2NDE0ZmI3Y2Q3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt24169886\/?ref_=sr_i_18"
+    },
+    {
+        "Movie_Id":19,
+        "Movie_Name":"Brothers",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"5.4",
+        "Reviews":"13K",
+        "Movie_Runtime":"1h 29m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Two criminal twin brothers, one who is trying to reform, embark on a dangerous heist road trip. Facing legal troubles, gunfights, and family drama, they must reconcile their differences before their mission leads to self-destruction.",
+        "Metacritic":"50 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYWJhMmQ3YzEtMGQyMS00ODI3LWFmYjgtOWNhZDkzMjk5MzFjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt9860566\/?ref_=sr_i_19"
+    },
+    {
+        "Movie_Id":20,
+        "Movie_Name":"Hitpig",
+        "Movie_type":"PG",
+        "Release_Date":"2024",
+        "Rateing":"5.1",
+        "Reviews":"825",
+        "Movie_Runtime":"1h 26m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A bounty hunter pig finds himself trekking the globe with a free-spirited elephant he intended to capture.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYjdlYTJjNWEtYjdkOS00ODUzLWEwMGItYjY3OWNkNWM2ZDc1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt13176330\/?ref_=sr_i_20"
+    },
+    {
+        "Movie_Id":21,
+        "Movie_Name":"Jackpot!",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"5.8",
+        "Reviews":"30K",
+        "Movie_Runtime":"1h 46m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In the near future, a 'Grand Lottery' has been newly established in California - the catch: kill the winner before sundown to legally claim their multi-billion dollar jackpot.",
+        "Metacritic":"41 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMmQ2ZGU3ODYtNzA0Yi00NDlhLWIxNzYtM2E2Y2FhOGNjZjIyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt26940324\/?ref_=sr_i_21"
+    },
+    {
+        "Movie_Id":22,
+        "Movie_Name":"Megamind vs The Doom Syndicate",
+        "Movie_type":"TV-G",
+        "Release_Date":"2024",
+        "Rateing":"2.5",
+        "Reviews":"5.4K",
+        "Movie_Runtime":"1h 23m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Megamind's former villain team, The Doom Syndicate, has returned. Newly crowned hero Megamind's must now keep up evil appearances until he can assemble his friends to stop his former evil teammates from launching Metro City to the Moon.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmMyNDM3ZjYtN2JhMy00YmZlLWIxMDYtOTMxOTQ1YzkyODFiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31122323\/?ref_=sr_i_22"
+    },
+    {
+        "Movie_Id":23,
+        "Movie_Name":"Aavesham",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.8",
+        "Reviews":"27K",
+        "Movie_Runtime":"2h 35m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Three teenagers reach Bangalore for their engineering degree and gets involved in a fight with seniors. They find a local gangster named Ranga to help them take revenge.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjJjY2IxMDYtN2U0My00MzFiLWJlYzItYmJkMDg1MTg3MjhmXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt26660021\/?ref_=sr_i_23"
+    },
+    {
+        "Movie_Id":24,
+        "Movie_Name":"Panda Plan",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.1",
+        "Reviews":"1.1K",
+        "Movie_Runtime":"1h 39m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"International action superstar Jackie Chan is involved in a rescue operation of a beloved zoo panda named Hu Hu.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYmY0N2Y5MDAtYmI0OS00ZTEwLTlkNDEtODA2ZjQ5OWRmMzE5XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28630624\/?ref_=sr_i_24"
+    },
+    {
+        "Movie_Id":25,
+        "Movie_Name":"Role Play",
+        "Movie_type":"R",
+        "Release_Date":"2024",
+        "Rateing":"5.5",
+        "Reviews":"19K",
+        "Movie_Runtime":"1h 40m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Emma has a wonderful husband and two kids in the suburbs of New Jersey. She also has a secret life as an assassin for hire, a secret that her husband Dave discovers when the couple decide to spice up their marriage with a little role play.",
+        "Metacritic":"38 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYmEwNzllZTEtZmY4Yy00OTYxLWJhZmEtMGQzYzJjZDM1OGM4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt12964320\/?ref_=sr_i_25"
+    },
+    {
+        "Movie_Id":26,
+        "Movie_Name":"Trouble",
+        "Movie_type":"TV-MA",
+        "Release_Date":"2024",
+        "Rateing":"6.2",
+        "Reviews":"6.6K",
+        "Movie_Runtime":"1h 38m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Conny, a divorced salesman, gets wrongfully imprisoned for murder. There, he meets criminals who mistake him for a pilot like his ex-wife's new boyfriend. Chaos ensues as he navigates life behind bars while separated from his daughter.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOTMwZmFkZjctOGJhMi00ZmQyLTk4ODAtYTM0OTFlNjkyZTVlXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30217143\/?ref_=sr_i_26"
+    },
+    {
+        "Movie_Id":27,
+        "Movie_Name":"My Spy: The Eternal City",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"5.7",
+        "Reviews":"11K",
+        "Movie_Runtime":"1h 52m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"JJ, a veteran CIA agent, reunites with his prot\u00e9g\u00e9 Sophie, in order to prevent a catastrophic nuclear scheme threatening Vatican City, which disrupts a high school choir trip to Italy.",
+        "Metacritic":"36 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjVhMTBlN2QtMWJmOS00OTliLWEwZTUtZjI3NWM2NjdmZjI3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt12930350\/?ref_=sr_i_27"
+    },
+    {
+        "Movie_Id":28,
+        "Movie_Name":"The Thundermans Return",
+        "Movie_type":"TV-G",
+        "Release_Date":"2024",
+        "Rateing":"5.0",
+        "Reviews":"1.8K",
+        "Movie_Runtime":"1h 10m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"It centers on the family as they begin a new era of superhero crimefighting. When one save goes wrong, the Thundermans are sent back to Hiddenville.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNzg2ZTgxMzUtZDUzNy00M2Y0LWE2NzItZjdmNzE5NmZlY2NlXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt26943420\/?ref_=sr_i_28"
+    },
+    {
+        "Movie_Id":29,
+        "Movie_Name":"Simarik",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.4",
+        "Reviews":"2.3K",
+        "Movie_Runtime":"1h 51m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"This is the story of Mete, the spoiled son of a wealthy businessman whose father makes him believe he has reincarnated as a servant in a 16th-century Ottoman city.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjlkMzVhMjctMTI3Zi00ZTBlLTkwN2UtMjIzM2I0OTFhMzBhXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31989784\/?ref_=sr_i_29"
+    },
+    {
+        "Movie_Id":30,
+        "Movie_Name":"Rats!",
+        "Movie_type":"Unrated",
+        "Release_Date":"2024",
+        "Rateing":"8.0",
+        "Reviews":"77",
+        "Movie_Runtime":"1h 25m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In Fresno, Texas, graffiti artist Raphael's arrest leads to his involvement in a chain of events involving a sting operation, suicide, drug deals, criminal suspicions, weapons, a newswoman, and a plutonium deal gone wrong, creating chaos.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYzNlYjZmYzAtMWE5OC00ZDE4LWIxNDQtMWEyZGJkZjRkMzFhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29426703\/?ref_=sr_i_30"
+    },
+    {
+        "Movie_Id":31,
+        "Movie_Name":"Cells at Work!",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.8",
+        "Reviews":"164",
+        "Movie_Runtime":"1h 49m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Each and every body is a legion of cells, all performing their function to keep their owner operating.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOTYzOTkwZjEtOWYxMC00NWM5LWIxOWQtYThjMTJhNmZhYTk2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27192829\/?ref_=sr_i_31"
+    },
+    {
+        "Movie_Id":32,
+        "Movie_Name":"Officer Black Belt",
+        "Movie_type":"TV-MA",
+        "Release_Date":"2024",
+        "Rateing":"6.8",
+        "Reviews":"7.9K",
+        "Movie_Runtime":"1h 48m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNWRkMTAzOGYtOTE4Ny00Yzg3LWExYzAtNDVhNjJjYmIwMTRkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28494829\/?ref_=sr_i_32"
+    },
+    {
+        "Movie_Id":33,
+        "Movie_Name":"The Tiger's Apprentice",
+        "Movie_type":"PG",
+        "Release_Date":"2024",
+        "Rateing":"5.8",
+        "Reviews":"2.1K",
+        "Movie_Runtime":"1h 24m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Tom Lee, a Chinese-American boy, after the death of his grandmother, has to be apprenticed to the talking tiger Mr. Hu and learn ancient magic to become the new guardian of an ancient phoenix.",
+        "Metacritic":"55 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTljMWNkOTgtYjFlMC00NzcxLWFhMTktMDhmZWIxMjBhNWJmXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt5834410\/?ref_=sr_i_33"
+    },
+    {
+        "Movie_Id":34,
+        "Movie_Name":"Arena Wars",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.0",
+        "Reviews":"2K",
+        "Movie_Runtime":"1h 36m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In 2045 convicted criminals are given the opportunity to compete on the world's #1 televised sporting event, Arena Wars. They must survive 7 rooms and 7 of the most vicious killers in the country. If they win, they regain their freedom.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGE3ZjBjZWQtYjI1NS00YjBjLTkzMmMtNzFlODQ3NTliMTU1XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt14132588\/?ref_=sr_i_34"
+    },
+    {
+        "Movie_Id":35,
+        "Movie_Name":"City Hunter",
+        "Movie_type":"TV-MA",
+        "Release_Date":"2024",
+        "Rateing":"6.3",
+        "Reviews":"5.5K",
+        "Movie_Runtime":"1h 42m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An exceptional marksman and hopeless playboy, private eye Ryo Saeba reluctantly forms an alliance with his late partner's sister to investigate his death.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNzI5ZWZjN2UtNjRiNS00MzViLTgzNjMtZWEyZTlmNWJhYjJkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt24478470\/?ref_=sr_i_35"
+    },
+    {
+        "Movie_Id":36,
+        "Movie_Name":"I, the Executioner",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.3",
+        "Reviews":"1.6K",
+        "Movie_Runtime":"1h 58m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Rookie detective Park Sun Woo and Seo Do-Cheol, a veteran of the Violent Crimes Investigation Division team, chase after a serial killer who shakes up their world.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZTJjYmE0MDYtOTk3MS00ODViLWFiNTctMWQ4ZjNjNjJlZTU1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30287778\/?ref_=sr_i_36"
+    },
+    {
+        "Movie_Id":37,
+        "Movie_Name":"Ultraman: Rising",
+        "Movie_type":"PG",
+        "Release_Date":"2024",
+        "Rateing":"6.9",
+        "Reviews":"6.2K",
+        "Movie_Runtime":"1h 57m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Ken Sato is a superstar baseball player who returns to Japan to become the latest hero to carry the mantle of Ultraman. However, he is compelled to raise a newborn kaiju monster, the offspring of his greatest enemy, as his own child.",
+        "Metacritic":"66 Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYzlhM2QwZDktNTdhOS00NGFjLTkxMzQtZmVmZDFlYzgxZjUxXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt9471678\/?ref_=sr_i_37"
+    },
+    {
+        "Movie_Id":38,
+        "Movie_Name":"200% Wolf",
+        "Movie_type":"PG",
+        "Release_Date":"2024",
+        "Rateing":"6.0",
+        "Reviews":"1.3K",
+        "Movie_Runtime":"1h 38m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When Freddy Lupin's wayward wish transforms him into a werewolf and deposits a mischievous moon sprite on earth, Freddy must restore the cosmic order before the earth and moon collide.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjQyYzkxNjEtZmY4Yy00ZTVkLWJiZWUtZWFkNTE5MDY5MjNmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27722575\/?ref_=sr_i_38"
+    },
+    {
+        "Movie_Id":39,
+        "Movie_Name":"Die Hart 2: Die Harter",
+        "Movie_type":"TV-MA",
+        "Release_Date":"2024",
+        "Rateing":"4.3",
+        "Reviews":"5.4K",
+        "Movie_Runtime":"1h 32m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Hart plans an innovative action film with unscripted, unexpected scenes to cement his legacy as the greatest. However, a blind spot leads him to fall victim to a vengeful plot from his past.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMTIxODU5MGItNmJlNi00YjUxLTgzNmItNzVkYTczNWRiODI1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32094375\/?ref_=sr_i_39"
+    },
+    {
+        "Movie_Id":40,
+        "Movie_Name":"Zero",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.1",
+        "Reviews":"38",
+        "Movie_Runtime":"1h 28m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Two Americans end up in Dakar, Senegal with bombs strapped to their chests and ten hours to find out why.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZTI4OWMyZmYtMGJmYS00NDc0LTk0YTItYjFiYjkzYzAxZDQ5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt13598080\/?ref_=sr_i_40"
+    },
+    {
+        "Movie_Id":41,
+        "Movie_Name":"Dan Da Dan: First Encounter",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.2",
+        "Reviews":"2.5K",
+        "Movie_Runtime":"1h 23m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Momo Ayase is a school girl who meets her classmate Ken Takakura (named after the actor). Their unlikely friendship will face them against ghosts and aliens in a series of dark and funny adventures.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMmE4NGI0NWUtOGFmNS00Yzk4LWFjYWYtYjU2MTAxYTMxMGQ5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33343397\/?ref_=sr_i_41"
+    },
+    {
+        "Movie_Id":42,
+        "Movie_Name":"A Legend",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.7",
+        "Reviews":"854",
+        "Movie_Runtime":"2h 9m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An archeologist noticed that the texture of the relics discovered during the excavation of a glacier closely resembled a jade pendant seen in one of his dreams. He and his team then embark on an expedition into the depths of the glacier.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjg1MTQ0MmUtY2Y1Ni00MDE5LTg3NjctOTYxNzc5OWFmNWJkXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27589902\/?ref_=sr_i_42"
+    },
+    {
+        "Movie_Id":43,
+        "Movie_Name":"Murder at Hollow Creek",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.2",
+        "Reviews":"78",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A disbarred lawyer and his eccentric brother attempt to pull off the robbery of a lifetime but find themselves in a dangerous game of cat and mouse with a disgruntled Serbian mobster",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOGEwYWE2YjAtZWIwMC00N2VhLWI1YTQtMGVhOTJhNWJkMzQ5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt19226688\/?ref_=sr_i_43"
+    },
+    {
+        "Movie_Id":44,
+        "Movie_Name":"London Calling",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.5",
+        "Reviews":"17",
+        "Movie_Runtime":"1h 49m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After fleeing the UK from a job gone wrong, a down on his luck hitman is forced to babysit the son of his new crime boss and show him how to become a man.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYWViYjc4OTEtYmQxZS00NmQxLTgyYjQtNmIzY2IzZTY5NzIxXkEyXkFqcGc@._V1_QL75_UY207_CR85,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30425872\/?ref_=sr_i_44"
+    },
+    {
+        "Movie_Id":45,
+        "Movie_Name":"Cassino in Ischia",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.4",
+        "Reviews":"229",
+        "Movie_Runtime":"1h 53m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The next generation of action heroes push Nic Cassino off his perch. He goes to Italy to work with struggling Italian directors on the first-ever \"Neo-Realist\" action movie in an effort to revitalize his career.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYWEyNWZkYzEtN2EyOC00NGQ1LThmMjEtN2ExYmI5OThhM2Y1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27759716\/?ref_=sr_i_45"
+    },
+    {
+        "Movie_Id":46,
+        "Movie_Name":"Handsome Guys",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.5",
+        "Reviews":"746",
+        "Movie_Runtime":"1h 41m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Self-proclaimed tough guys 'Jae-pil' and 'Sang-gu' move into their dream European-style house. When unwanted visitors arrive, awakening an evil spirit hitherto sealed in the basement, a dark aura begins to envelop the house.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMzIwYjJkNWItMWI1ZS00M2IyLWEwMjEtZmI2MWRjOTI1ZDQ0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32475217\/?ref_=sr_i_46"
+    },
+    {
+        "Movie_Id":47,
+        "Movie_Name":"Ryan's World the Movie: Titan Universe Adventure",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"1.8",
+        "Reviews":"634",
+        "Movie_Runtime":"1h 20m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Ryan's twin sisters Emma and Kate get trapped in a comic book world. Ryan enters this realm to rescue them, facing adventures, battles, and mishaps while attempting to bring them back before his parents discover their disappearance.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMWY1ZmNhNDMtYjYwOS00ZWU5LThmMDAtMWYzNTc0YzExYWM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29898251\/?ref_=sr_i_47"
+    },
+    {
+        "Movie_Id":48,
+        "Movie_Name":"Nice Girls",
+        "Movie_type":"TV-MA",
+        "Release_Date":"2024",
+        "Rateing":"4.2",
+        "Reviews":"1.2K",
+        "Movie_Runtime":"1h 32m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When L\u00e9o's brother Ludo is killed in Hamburg, despite orders she partners with German cop M\u00e9lanie to investigate. Unbeknownst to them, Nice faces a threat and they share an unknown connection.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjRjODJlNzMtMDE3MS00NzNmLWI0OTQtMWE1NTNhNzkyYTFjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29288566\/?ref_=sr_i_48"
+    },
+    {
+        "Movie_Id":49,
+        "Movie_Name":"Don't Mess with Grandma",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.1",
+        "Reviews":"143",
+        "Movie_Runtime":"1h 21m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A drunk Army ranger must fight off the vicious robbers who plan to loot the cabin belonging to his sweet, oblivious grandmother.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZWUwMzQyN2MtMDA4Zi00ZjhjLWJjYzMtNDc0YzQ0MjRjMWM1XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27786496\/?ref_=sr_i_49"
+    },
+    {
+        "Movie_Id":50,
+        "Movie_Name":"Everybody Loves Jenifa",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.4",
+        "Reviews":"77",
+        "Movie_Runtime":"2h 15m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Jenifa's popularity fades when a shady new neighbor, Lobster, outshines her charity work. In Ghana, Jenifa and friends face a deadly drug baron after a bag of drugs is mistakenly left in their rental.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYjRlMmM0MTQtNzViOS00Y2U5LWE0MWMtMzM0ZmU5ZDEyZTcwXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt34573436\/?ref_=sr_i_50"
+    },
+    {
+        "Movie_Id":51,
+        "Movie_Name":"ARM",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.1",
+        "Reviews":"8.5K",
+        "Movie_Runtime":"2h 30m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Set in the Northern Kerala in 1900, 1950 and 1990, three generations of heroes, Maniyan, Kunjikelu and Ajayan, try to protect the most important treasure of the land.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOTdiZjI3OGYtZTk1YS00Mjk5LTlmYzktODQ4NDQyM2JjNmI3XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt11531182\/?ref_=sr_i_51"
+    },
+    {
+        "Movie_Id":52,
+        "Movie_Name":"Memes & Nightmares",
+        "Movie_type":"TV-MA",
+        "Release_Date":"2024",
+        "Rateing":"5.8",
+        "Reviews":"73",
+        "Movie_Runtime":"1h 21m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"NBA Twitter king's quest unravels the fleeting nature of online content and human bonds in the digital era, shaping our ephemeral connections.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMGYzYjVlMDctZmRiNi00ZmM5LWEyOWItZmY2OWU2N2RhNzU4XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32147189\/?ref_=sr_i_52"
+    },
+    {
+        "Movie_Id":53,
+        "Movie_Name":"Mission: Cross",
+        "Movie_type":"TV-MA",
+        "Release_Date":"2024",
+        "Rateing":"6.1",
+        "Reviews":"2.5K",
+        "Movie_Runtime":"1h 45m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In the ultimate test of marriage, an agent-turned-househusband gets tangled in a perilous mission with his detective wife, who's clueless about his past.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYmJmZTMwNTUtY2MxNy00YjQzLTk1YWYtZTE5ZmE0Y2ViODk4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30515931\/?ref_=sr_i_53"
+    },
+    {
+        "Movie_Id":54,
+        "Movie_Name":"Alien Country",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.4",
+        "Reviews":"349",
+        "Movie_Runtime":"1h 36m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Reeling from the news of an unexpected pregnancy, Jimmy and Everly unknowingly release an alien invasion in their small town and learn to work together in order to save each other, their town and evidently, the entire galaxy.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZTA1NGRjZTEtN2Y1Ny00Y2IzLWIxZmMtNzkxMjFhMzQ4MWUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt13015408\/?ref_=sr_i_54"
+    },
+    {
+        "Movie_Id":55,
+        "Movie_Name":"Yolo",
+        "Movie_type":"PG-13",
+        "Release_Date":"2024",
+        "Rateing":"6.9",
+        "Reviews":"3.6K",
+        "Movie_Runtime":"2h 9m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After an argument with her younger sister, Le Ying moves out on her own. She meets a boxing trainer and starts boxing.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOTA3MTVkZGYtYzFlMi00MjAzLWI2MmQtZjUxYWUzNGU2ZjE3XkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28151876\/?ref_=sr_i_55"
+    },
+    {
+        "Movie_Id":56,
+        "Movie_Name":"Baby Assassins: Nice Days",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.3",
+        "Reviews":"267",
+        "Movie_Runtime":"1h 43m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Teenage assassins Chisato and Mahiro visit the coastal city of Miyazaki when they unexpectedly cross paths with a bloodthirsty assassin who's looking to add to his personal body count.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTBmN2Q5ZDItMGQ3My00ZjE5LWI0MDctY2RmZTZiM2FiOTE0XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32382919\/?ref_=sr_i_56"
+    },
+    {
+        "Movie_Id":57,
+        "Movie_Name":"Rob N Roll",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.1",
+        "Reviews":"1.4K",
+        "Movie_Runtime":"1h 38m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Decadent Murong Hui teams up with violent bandits after a botched robbery. A female detective pursues them as they scheme to steal a bag of money, leading to chaotic events due to betrayals and twists under the \"I rob, you rob me\" code.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BODVmZTUwMTctNjQ0My00NzgwLThiMGUtMTZkOWRjNGY4ZDNiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30958950\/?ref_=sr_i_57"
+    },
+    {
+        "Movie_Id":58,
+        "Movie_Name":"Citizen of a Kind",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.7",
+        "Reviews":"769",
+        "Movie_Runtime":"1h 54m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After a fire destroys her laundromat, a single mother is tricked by a voice phishing scheme. She decides to investigate the criminals behind it.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGJmYmRkMjAtZjhiNi00NWUyLTk5OTctOWIwZTYzODY3NzIwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30364726\/?ref_=sr_i_58"
+    },
+    {
+        "Movie_Id":59,
+        "Movie_Name":"Bonus Trip",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.5",
+        "Reviews":"217",
+        "Movie_Runtime":"1h 53m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Two FBI agents defy orders while investigating a case. They team up with a translator to rescue her father and expose a global conspiracy. Along the way, they face humorous situations, unexpected twists, and life-threatening dangers.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMWRlMGNhN2MtZGY2Zi00ZTE2LWJmMmItYTM0MzgxYzc0OTg4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30320010\/?ref_=sr_i_59"
+    },
+    {
+        "Movie_Id":60,
+        "Movie_Name":"Deaner '89",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.9",
+        "Reviews":"413",
+        "Movie_Runtime":"1h 30m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A hilarious headbanger finally makes it after struggling for decades, revealing it was all because of a childhood incident when the dark forces of heavy metal reached out from the grave.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOGMxMmFjMGMtMDYyNS00M2U0LWE4N2EtMjU3ZmFjY2ExMTNjXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt23149654\/?ref_=sr_i_60"
+    },
+    {
+        "Movie_Id":61,
+        "Movie_Name":"The Actor",
+        "Movie_type":"TV-MA",
+        "Release_Date":"2024",
+        "Rateing":"3.3",
+        "Reviews":"722",
+        "Movie_Runtime":"2h 8m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An actor battling his own moral standards witnesses a neighbor's murder and stumbles upon a load of cash the victim was hiding. He keeps the money, and in doing so, begins the performance of a lifetime to hide who he really is.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTk1NDY4ZjYtZTBkZS00MjQzLThmOWItNGIwNjJjYjdhODMzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt4847946\/?ref_=sr_i_61"
+    },
+    {
+        "Movie_Id":62,
+        "Movie_Name":"Tillu Square",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.6",
+        "Reviews":"3.4K",
+        "Movie_Runtime":"2h 17m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"One year after a love affair entangled him in a murder case, a hapless DJ has a one-night stand that leads to even messier kerfuffles tied to his past.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTYyZGUyMzktMzhmMi00MjRjLThlMjUtZmRjMjdmNzQ2OWQ5XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt22987820\/?ref_=sr_i_62"
+    },
+    {
+        "Movie_Id":63,
+        "Movie_Name":"Timuchin",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.2",
+        "Reviews":"16",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A young and ambitious guy from the village comes to the city to fulfill his dream and enter the Academy of the Ministry of Internal Affairs. His desire to become a policeman is known to everyone around him. However, in the area where his uncle lives, there is a criminal group that controls ruthless gangs, and when he enters the academy, he meets his love. Now he has to not only prepare for exams, but also enter into a confrontation with bandits in order to protect his loved ones and his future.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYmQyODBmNTgtMmQ4Ni00Yzg2LWJjMmQtZDdhMTViZWMwYjg5XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30877238\/?ref_=sr_i_63"
+    },
+    {
+        "Movie_Id":64,
+        "Movie_Name":"Non Negotiable",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.4",
+        "Reviews":"1.2K",
+        "Movie_Runtime":"1h 27m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Alan Binder is a skillful hostage negotiator, the best in Mexico, who will soon face the most crucial case of his career when the President and his lover are kidnapped. The kidnapper demands to negotiate only with him.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGM1ZjY5MGQtMGNmNy00ZjVmLTkyNTYtMTQwOGEyMTU4NzgxXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31227221\/?ref_=sr_i_64"
+    },
+    {
+        "Movie_Id":65,
+        "Movie_Name":"My Redneck Neighbor: Chapter 2 - Let the Games Begin",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"55m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Crazy Asians and Redneck clans escalate their Pranks to a point of no return when Cat tries to boil Reddick's Pet Gerbil, in retaliation, the Reddicks roast Cat's chicken for lunch, lead to an all out War,Winner takes all Redneck Games",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZDcwYzFjYzQtYzQyYi00MWE0LWE0MWItMjE5NTI0NjgwMWVhXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt12707364\/?ref_=sr_i_65"
+    },
+    {
+        "Movie_Id":66,
+        "Movie_Name":"Bidurbhai",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"9.2",
+        "Reviews":"375",
+        "Movie_Runtime":"2h 28m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Four friends from impoverished backgrounds scheme risky plan for quick money, initially enjoy lavish lifestyle but face moral dilemmas and harsh repercussions as consequences of their actions unfold.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOGM0ZDE2MjAtMTgxNi00ZWFhLWJhMDEtMmMzNWI0MDk3ZDE1XkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32904232\/?ref_=sr_i_66"
+    },
+    {
+        "Movie_Id":67,
+        "Movie_Name":"Troubleshooters",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.4",
+        "Reviews":"400",
+        "Movie_Runtime":"1h 50m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Two friends from Tirana attempt to solve a murder mystery at a Durr\u00ebs resort while masquerading as wealthy men, encountering love interests, criminals, and self-doubt along the way as they navigate their first case as private detectives.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjc0ZDI3ZjQtMzA5OS00YmM2LWE2YmEtOTU0OGU5YjRjMTkyXkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30661504\/?ref_=sr_i_67"
+    },
+    {
+        "Movie_Id":68,
+        "Movie_Name":"Xiong Shi Shao Nian 2",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.5",
+        "Reviews":"184",
+        "Movie_Runtime":"2h 14m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A Juan, an unknown person who came to Shanghai to work, agreed to participate in the \"Shanghai Fight Night\" martial arts competition on behalf of the declining Chuanwu Boxing Gym in order to make money to treat his father's illness.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMDU4NjE0NmEtZjVkMi00N2IwLTliY2EtM2JmNjhjYTg3MjRkXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32439604\/?ref_=sr_i_68"
+    },
+    {
+        "Movie_Id":69,
+        "Movie_Name":"No Time to Spy: A Loud House Movie",
+        "Movie_type":"TV-Y7",
+        "Release_Date":"2024",
+        "Rateing":"6.4",
+        "Reviews":"433",
+        "Movie_Runtime":"1h 21m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Lincoln and the Louds are ecstatic to welcome their new Gran-Gran, Myrtle, into the family with a tropical wedding celebration, but the festivities are cut short when an old nemesis from Myrtle's secret agent past appears on the island.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYzFkMmZlOTQtZmMwNS00NWNiLWI2Y2YtZDQ3MTBiYWYwYTQ2XkEyXkFqcGc@._V1_QL75_UY207_CR14,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32223312\/?ref_=sr_i_69"
+    },
+    {
+        "Movie_Id":70,
+        "Movie_Name":"Guy Manley: Super Spy",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.5",
+        "Reviews":"115",
+        "Movie_Runtime":"1h 32m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Ex-spy Guy Manley is assigned one last mission by his former boss Buck Cash. The mission is to kill Buck's brother Rich Cash to prevent him from being elected as the new mayor, and thereby becoming the most powerful person in the world.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOGU3ZmZjMGUtMDI5YS00N2M0LWFlNDMtYjMwZjNmM2FhMmUxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29005580\/?ref_=sr_i_70"
+    },
+    {
+        "Movie_Id":71,
+        "Movie_Name":"Thundu",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.0",
+        "Reviews":"900",
+        "Movie_Runtime":"2h 5m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A constable aiming for a promotion unexpectedly encounters many problems. Facing the issues with humor and compassion, he works to overcome them.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYzU0ZmRkOGItNmNkZS00MmM3LTlkZjEtOTAwNWQ1ODUwMWM4XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28253200\/?ref_=sr_i_71"
+    },
+    {
+        "Movie_Id":72,
+        "Movie_Name":"My Fathers' Daughter",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.6",
+        "Reviews":"71",
+        "Movie_Runtime":"1h 18m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Set in Norway's northern reaches, the story centers on Elvira, a Sami teen. Convinced her mother conceived at a Danish clinic, her life shifts when her true father emerges, forever altering her world.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMGE1Njk1MDItNmY4MC00MWZmLWEyNjktMTI4MzRmZWQ4N2FiXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28802436\/?ref_=sr_i_72"
+    },
+    {
+        "Movie_Id":73,
+        "Movie_Name":"The Drunken Prodigy",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.6",
+        "Reviews":"13",
+        "Movie_Runtime":"1h 47m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Lin Yao has loved practicing martial arts since he was a child and thought he was very powerful. After experiencing deception and betrayal, he recognized who he was, regained confidence, practiced drunken boxing, and became a true hero.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYWU2NWI2ZjItY2VhOS00NDIyLTkxMzgtMTA3ODc0NzFlMDAzXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33062909\/?ref_=sr_i_73"
+    },
+    {
+        "Movie_Id":74,
+        "Movie_Name":"Love You to Debt",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.2",
+        "Reviews":"747",
+        "Movie_Runtime":"2h 15m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Follows Bo, a debt collector who starts to rethink everything after collecting a debt from a beautiful girl.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMGM5NzFiM2QtYzE1Ni00ODAxLTgzMzUtZWQyZTcxMTgwMGZhXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt24744192\/?ref_=sr_i_74"
+    },
+    {
+        "Movie_Id":75,
+        "Movie_Name":"Clone Cops",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.1",
+        "Reviews":"185",
+        "Movie_Runtime":"1h 36m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A gang of outlaws defend their hideout until they discover a shocking secret about who they are and what they're up against. Now it's a race against time as they look for a way to escape certain doom at the hands of the Clone Cops.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGM1MDRhZTgtMjIwMi00MWE5LTk3YmItNDIwNjc3N2MyODQ0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt21615474\/?ref_=sr_i_75"
+    },
+    {
+        "Movie_Id":76,
+        "Movie_Name":"Anunnakiler",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"2.6",
+        "Reviews":"426",
+        "Movie_Runtime":"1h 16m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In Istanbul, the creator of a powerful aphrodisiac and several people mysteriously disappear. The police question Kasim, who mentions an alien named Agulu from the planet Nibiru. Agulu is smuggling Earth's aphrodisiac resources to Nibiru. When Hamdi and his crew reveal this secret, they are eliminated by the Anunnaki.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMGEwMDczOWQtOGEwNC00N2RmLTgzOTItMzk3YzQ3MDZmMjlmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33504617\/?ref_=sr_i_76"
+    },
+    {
+        "Movie_Id":77,
+        "Movie_Name":"Big City Greens the Movie: Spacecation",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.2",
+        "Reviews":"529",
+        "Movie_Runtime":"TV-Y7",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After ruining his family's vacation before it can even begin, Cricket attempts to right his wrongs by volunteering his family for an experimental farming mission - in space.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjhkOGFmYTAtZmQxOS00ZmFjLTkyZDAtMWMzYmUyNjUxNDc1XkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt22752312\/?ref_=sr_i_77"
+    },
+    {
+        "Movie_Id":78,
+        "Movie_Name":"Team of Two",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.1",
+        "Reviews":"106",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When facing the most dangerous criminal is easier than facing your new partner",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYjkwMzE3MjktNTAzZi00ODk4LTlmN2UtZWZjMWM2YzMxMjBlXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt11306352\/?ref_=sr_i_78"
+    },
+    {
+        "Movie_Id":79,
+        "Movie_Name":"Turbo",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.9",
+        "Reviews":"3.5K",
+        "Movie_Runtime":"2h 35m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Jose, a jeep driver from Idukki gets in trouble and is forced to relocate to Chennai where he gets entangled with Indhu and his best friend, Jerry. A bunch of surprises in the form of Vetrivel and others await Jose in Chennai.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYmNkYTVhN2QtZmQ0OC00NWViLTgyNzItODU5OWQxMGViNWM1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29608104\/?ref_=sr_i_79"
+    },
+    {
+        "Movie_Id":80,
+        "Movie_Name":"The Mick and the Trick",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.0",
+        "Reviews":"75",
+        "Movie_Runtime":"1h 36m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An Irish hit man working for a Cuban crime boss and the IRA tries to leave his life of crime with the help of a savvy hooker.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZDIwMzY4NDItNmUzNy00MGRlLWI1OTctMTkxZDVmYzliNjJkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt10228618\/?ref_=sr_i_80"
+    },
+    {
+        "Movie_Id":81,
+        "Movie_Name":"Malayalee from India",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.6",
+        "Reviews":"5K",
+        "Movie_Runtime":"2h 40m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An unemployed young man named Aalparambil Gopi is compelled to embark on a journey away from his home. This unplanned trip ultimately changes the course of his life in a remarkable way.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMDFjNTVmNmMtOGUzNi00NzJiLThmY2QtMDgwMzgyZTg3YWE3XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt26655359\/?ref_=sr_i_81"
+    },
+    {
+        "Movie_Id":82,
+        "Movie_Name":"The Waiter",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.0",
+        "Reviews":"20",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Akpos, a struggling individual, takes a temporary job as a waiter at Crystal Hotel for an event hosted by the Minister of Poverty Alleviation, where a scheme to assist the underprivileged is being launched.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNzQ4OWZiZDctMDY0NC00NjQ0LTgzMjYtMzQ5MWNkODZhZjVlXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt34983230\/?ref_=sr_i_82"
+    },
+    {
+        "Movie_Id":83,
+        "Movie_Name":"Honeko Akabane's Bodyguards",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.9",
+        "Reviews":"35",
+        "Movie_Runtime":"1h 57m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Koneko has a 10 billion yen bounty on her head. Ibuki, her childhood friend turned bodyguard, must protect her incognito. Unexpectedly, all his classmates are assigned as her covert bodyguards.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGExODBmYjYtYzM0OS00ODBkLTkwODAtZjg0OTNkNjdjZTM5XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31557623\/?ref_=sr_i_83"
+    },
+    {
+        "Movie_Id":84,
+        "Movie_Name":"Saint Young Men: Holy Men vs Demon Army",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"3.0",
+        "Reviews":"13",
+        "Movie_Runtime":"1h 33m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYTYyYjE0MDAtYzQ2Yy00MjIzLWIwZDYtNGM3MTI1YjE4YjhlXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32446009\/?ref_=sr_i_84"
+    },
+    {
+        "Movie_Id":85,
+        "Movie_Name":"Sons of Rizk 3",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.7",
+        "Reviews":"1.6K",
+        "Movie_Runtime":"2h 5m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Four brothers engage in criminal acts but vow to go straight someday. After a deal unravels, the eldest sibling wants to quit crime, yet his defiant younger brothers make a risky deal with a notorious criminal overlord.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMDlmNmQ5Y2ItZGU2Mi00NzZiLWJhMDItNmUxNWFhMDk4OWEyXkEyXkFqcGc@._V1_QL75_UY207_CR12,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt20877986\/?ref_=sr_i_85"
+    },
+    {
+        "Movie_Id":86,
+        "Movie_Name":"Spirit Riser",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.7",
+        "Reviews":"33",
+        "Movie_Runtime":"1h 38m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Two sisters are thrown out of their isolation and onto opposite coasts of America by a terrifying cosmic entity. On their quest to reunite they discover their own supernatural abilities and meet many strange characters.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjY1YmYzZDMtNzU0Ny00M2IyLWFlOGMtMGQ1MTMxOGU0YzAyXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt7626484\/?ref_=sr_i_86"
+    },
+    {
+        "Movie_Id":87,
+        "Movie_Name":"Checkmate",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.3",
+        "Reviews":"380",
+        "Movie_Runtime":"1h 44m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A former international secret agent must put together his old team for a desperate new mission when his niece is kidnapped.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjY0ODA5YzYtMjI5MC00N2M2LThkZDMtODk4Mjc1NTQ0YTVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30850554\/?ref_=sr_i_87"
+    },
+    {
+        "Movie_Id":88,
+        "Movie_Name":"Hrashwo Deergha",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.9",
+        "Reviews":"79",
+        "Movie_Runtime":"2h 30m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BM2M1Mjc0MjYtYjRjZS00ODM5LTg5OGItY2Y5YWFlNWI3MTU2XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33058210\/?ref_=sr_i_88"
+    },
+    {
+        "Movie_Id":89,
+        "Movie_Name":"Petta Rap",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.2",
+        "Reviews":"1.7K",
+        "Movie_Runtime":"2h 3m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"\"PETTA RAP\" tells the love journey of BALA (a middle class man whose ambition is to become the best action hero of Tamil movies.) and JANAKI (a local girl, who becomes a Pop Singer.)",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMDIxZmZlOGItYjYwOC00NWQ3LWJiOWQtZjY3MTJkMzc5NjJkXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt26887171\/?ref_=sr_i_89"
+    },
+    {
+        "Movie_Id":90,
+        "Movie_Name":"Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.8",
+        "Reviews":"25",
+        "Movie_Runtime":"1h 11m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Follows Komugi and Iroha on a new adventure, when they are sucked into the world of the video game Doki Doki Tanukingdom (Thrilling Raccoon-Dogkingdom).",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZDMyMGIwMjktN2M1NC00ZGIzLWI2NTMtNGIzNmZhZjc5ODAwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31806053\/?ref_=sr_i_90"
+    },
+    {
+        "Movie_Id":91,
+        "Movie_Name":"Bandaa Singh Chaudhary",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.3",
+        "Reviews":"5.2K",
+        "Movie_Runtime":"1h 53m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Set during 1971 Indo-Pak war's aftermath, communal riots in Punjab. A man fights for rights, family's survival amid division, violence. An ordinary man fights to protect his family's rights and survive amidst deep divisions and violence.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOWFjMDU1ZTEtMzU5Ni00NzM0LTgzMjEtOTA1ZTY3N2E3YzZmXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33529930\/?ref_=sr_i_91"
+    },
+    {
+        "Movie_Id":92,
+        "Movie_Name":"Breaking and Re-entering",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.8",
+        "Reviews":"431",
+        "Movie_Runtime":"1h 49m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An invincible theft group led by Chang Bojun, who secretly carried out a 1 billion yuan theft case on New Year's Eve. Unexpectedly, they encountered a gang robbing gang, and Chang's ex-girlfriend was accidentally involved in the case.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMmUxZTMwNzktZWVlOS00ZGRjLWFmMjItMDBhOWFjY2QzMGFjXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30698096\/?ref_=sr_i_92"
+    },
+    {
+        "Movie_Id":93,
+        "Movie_Name":"T\u00fcrkler \u00c7ildirmis Olmali 2: Mavi Vatan",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"2.2",
+        "Reviews":"152",
+        "Movie_Runtime":"1h 40m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmI1ZmViMGUtNjY5MS00ODkwLWJjMDYtYjIwNjgxNDE4YzBhXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt23667286\/?ref_=sr_i_93"
+    },
+    {
+        "Movie_Id":94,
+        "Movie_Name":"Heavens: The Boy and His Robot",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.3",
+        "Reviews":"21",
+        "Movie_Runtime":"1h 38m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The journey of a struggling young pilot, Kai, and his fighter mecha, Little Dragon, set against a backdrop of epic galactic warfare told with action, humor, and heart, rekindling wonder in adults and sparking the imaginations of children.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZDcyNTA2MTUtYzljYy00Mjc1LWFlMzAtNDQ1Yjg0NjcyZmFjXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28501176\/?ref_=sr_i_94"
+    },
+    {
+        "Movie_Id":95,
+        "Movie_Name":"Gone with the Dead",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.1",
+        "Reviews":"39",
+        "Movie_Runtime":"1h 36m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The west coast is plunged into chaos when a mysterious virus turns people into flesh-eating zombies. Two different groups of survivors must band together and fight to stay alive or be Gone...with the Dead.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYTk5NTdkNTgtNmU5YS00NzJlLThjOTctM2UwZjM0ZDk0ZThhXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt6060274\/?ref_=sr_i_95"
+    },
+    {
+        "Movie_Id":96,
+        "Movie_Name":"The Infallibles",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.8",
+        "Reviews":"745",
+        "Movie_Runtime":"1h 39m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"While a gang of robbers has been sowing chaos in Paris and humiliating the police for months, the Minister of the Interior wants new blood to head the investigation: Alia, explosive and unmanageable, Hugo, valedictorian and meticulous.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BODk4NDBkZDEtNmIyNy00ZDYyLTlkY2EtZDRmMDQ5YTkyMTE4XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28290049\/?ref_=sr_i_96"
+    },
+    {
+        "Movie_Id":97,
+        "Movie_Name":"Gam Gam Ganesha",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.3",
+        "Reviews":"307",
+        "Movie_Runtime":"2h 20m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"During a Ganesh Chaturthi celebration, small-time thief Ganesh attempts a major heist that goes awry, leading to a comical clash with Rudra and his boss Kishore Reddy, who are also searching for a valuable item amidst the festive chaos.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BM2FkYjMzNDUtNjFhZS00NWQ3LThiMzYtNjZlN2VhYTVmYzE0XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29041237\/?ref_=sr_i_97"
+    },
+    {
+        "Movie_Id":98,
+        "Movie_Name":"Young Lion of the West",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.1",
+        "Reviews":"105",
+        "Movie_Runtime":"1h 33m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A local club promoter in Rochester, New York defies the orders of his boss and attempts to open up his own club.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYWQzNGY0MjMtYjNkMy00NzdhLWE5MjgtZGUxMmFkNGVjNDM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt10165952\/?ref_=sr_i_98"
+    },
+    {
+        "Movie_Id":99,
+        "Movie_Name":"Ame no naka no yokuj\u00f4",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.0",
+        "Reviews":"66",
+        "Movie_Runtime":"2h 12m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A love triangle unfolds between two men and a woman, exploring the intense and bittersweet emotions of their entanglement, set against the backdrop of Chiayi City's retro streets evoking old Japan.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BODhmMjAwYmMtNmExYi00OGYzLWEwMDEtNDJiNmI3NTk3MDEzXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt34278071\/?ref_=sr_i_99"
+    },
+    {
+        "Movie_Id":100,
+        "Movie_Name":"Kiyma: Orman Kanunlari",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.3",
+        "Reviews":"34",
+        "Movie_Runtime":"1h 21m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"\u00d6mer, Tufan and Poyraz want to spend the summer in Bodrum and participate in a competition program. When they go to Bodrum, they participate in the eliminations of the competition. While experiencing the entertainment and nightlife on the one hand and the difficulties of the competition on the other, they face a bigger trouble.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOTNiZDBiOTQtMzg5MS00N2ZlLTk5NzktYTA5ZTUwMWViNTRjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33384729\/?ref_=sr_i_100"
+    },
+    {
+        "Movie_Id":101,
+        "Movie_Name":"Fuuto PI: Portrait of Kamen Rider Skull",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.5",
+        "Reviews":"30",
+        "Movie_Runtime":"1h 22m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When the monster Dopants, who use the power of the Gaia Memory, begin to operate in the windy city of Fuuto, the young Shotaro becomes an assistant to the detective Narumi Soukichi and spends his days chasing after him. Shotaro, who knows nothing about Soukichi, who secretly works as Kamen Rider Skull in addition to his detective work, becomes increasingly frustrated. One day, a new request comes into the Narumi Detective Agency, leading Shotaro and his team to a fateful night.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZGRhYmZhMDYtYjRjYy00OTQwLWE3OTQtZDBhOWYwYjEyYmUxXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32809227\/?ref_=sr_i_101"
+    },
+    {
+        "Movie_Id":102,
+        "Movie_Name":"Second Life",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.9",
+        "Reviews":"40",
+        "Movie_Runtime":"1h 45m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Whilst serving a prison sentence for killing a gang boss, Liang gives birth to a boy who is put into welfare. 30 years later, Liang is released from prison, and the gang send blind Ah Gui to pose as Liang's blind son so he can kill her.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BN2EwMzdlMjQtNGNjZi00N2RlLTgxYjQtYTJmZjNiZDc2NGQzXkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33111253\/?ref_=sr_i_102"
+    },
+    {
+        "Movie_Id":103,
+        "Movie_Name":"Artist Unknown",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"9.2",
+        "Reviews":"11",
+        "Movie_Runtime":"1h 22m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Unlucky-in-love martial artist Juniper has hit rock bottom. She's working at her ex girlfriend's MMA studio by day and crashing on her couch by night. Needing something to call her own, Juniper steps into a local thrift store and buys a painting. What was a spur-of-the-moment purchase turns into a life-changing adventure when two masked thieves try to steal the painting. She surprises herself and the would-be thieves when she fights back and escapes. When forced to fight the ultimate battle for the painting, she realizes the true value lies not in the beauty of the painting or the allure of a new lover but in the strength of her own self-worth.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYzQzNjAwN2ItZjEyYy00ZGJhLTlmOGQtMGVkMmJjNGY0MDliXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt24329424\/?ref_=sr_i_103"
+    },
+    {
+        "Movie_Id":104,
+        "Movie_Name":"The Desperate Chase",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.5",
+        "Reviews":"49",
+        "Movie_Runtime":"1h 50m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A detective partners with a con artist adept at disguises to take down a powerful criminal organization. Their unlikely alliance faces challenges as they navigate the dangerous underworld, uncovering secrets and confronting mafia's.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmJmY2FjNzgtYTZkYS00ZjRmLWI2YTQtYmFmNzM3NjA2OGM4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27176023\/?ref_=sr_i_104"
+    },
+    {
+        "Movie_Id":105,
+        "Movie_Name":"Sous \u00e9crous",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.3",
+        "Reviews":"33",
+        "Movie_Runtime":"1h 51m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNzdjNzBkMmItZGEyNC00YzdlLTg0MTgtODQ3Zjg5Mjk2MDcwXkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33396612\/?ref_=sr_i_105"
+    },
+    {
+        "Movie_Id":106,
+        "Movie_Name":"Mathu Vadalara 2",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.0",
+        "Reviews":"1.6K",
+        "Movie_Runtime":"2h 19m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Babu and Yesu, former delivery agents, embark on a thrilling mission as special agents, facing extraordinary challenges with humor, surprises, and nonstop excitement.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZTU4ZWRlYTUtNGY0Yy00NDNjLThlNzQtY2M1NDNiOWM5MWJkXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33291871\/?ref_=sr_i_106"
+    },
+    {
+        "Movie_Id":107,
+        "Movie_Name":"Cholo Zombies",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.7",
+        "Reviews":"101",
+        "Movie_Runtime":"1h 36m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"It is a crazy tale of zombie absurdity where only true Cholos turn and SoCal's legal system is a little TOO lenient. With fast paced action, gore galore, and classic cholo cameos, this is an adventure you won't want to miss.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNzkyY2U4YjktODE1Yi00OTZjLWE1ZTktYTNhODFjOTBjNjQxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt13009044\/?ref_=sr_i_107"
+    },
+    {
+        "Movie_Id":108,
+        "Movie_Name":"Hitler",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.2",
+        "Reviews":"302",
+        "Movie_Runtime":"2h 8m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A hero with a genuine background involved with the political murders. What is the reason behind this that's the Story.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYWYzODQ0NGUtOWNkZi00ZmU2LWJhNDAtYmZiZmExMjJmMTZjXkEyXkFqcGc@._V1_QL75_UY207_CR119,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29340778\/?ref_=sr_i_108"
+    },
+    {
+        "Movie_Id":109,
+        "Movie_Name":"Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.8",
+        "Reviews":"14",
+        "Movie_Runtime":"1h 30m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDZmNzRhYTUtZWM5MC00ZjYzLWIyZWYtNmYxN2Y0OTliZDUwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33615466\/?ref_=sr_i_109"
+    },
+    {
+        "Movie_Id":110,
+        "Movie_Name":"Paraagan",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A feisty but down-on-his-luck thug starts rebelling in unexpected ways after his emotionally manipulative boss keeps him trapped and working in a mechanic shop for four years.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMTU1ZWQ0NzYtYjUwMi00ZTNiLTg5ZTctYjRhYTFhMTFjMGMwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt26753343\/?ref_=sr_i_110"
+    },
+    {
+        "Movie_Id":111,
+        "Movie_Name":"Alligator Blood",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.3",
+        "Reviews":"980",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"I am a crocodile, a bloody crocodile. A wounded person who has lost his whole life and has nothing to lose - but still he wants to take big risks.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOTEyM2Y4OGItMDFiMy00NTEzLTg5ZmYtNWYzNWYzYmMyNzkxXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30750859\/?ref_=sr_i_111"
+    },
+    {
+        "Movie_Id":112,
+        "Movie_Name":"Viswam",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.3",
+        "Reviews":"628",
+        "Movie_Runtime":"2h 35m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When terrorists target a young girl who witnessed an assassination, a heroic taxi driver comes to the rescue.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjQwOGMzMWEtOTQ4Zi00ZmI2LWFhMDktNzhjY2JjZWVhYjQ3XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28630710\/?ref_=sr_i_112"
+    },
+    {
+        "Movie_Id":113,
+        "Movie_Name":"Brattt",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.7",
+        "Reviews":"66",
+        "Movie_Runtime":"1h 57m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A general's daughter lives in Tambov, in love with a street artist, whom her father disapproves of. The general has a twin brother who heads a criminal gang. Two unsuccessful robbers fail the task, which triggers a string of events that will change lives and destroy families.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjYzNzAzNjgtNjEzMS00N2FhLTg1Y2EtYTkyZGQwNzQ2NmJmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt14635416\/?ref_=sr_i_113"
+    },
+    {
+        "Movie_Id":114,
+        "Movie_Name":"Nothing Unusual",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"9.7",
+        "Reviews":"12",
+        "Movie_Runtime":"1h 32m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In Japan, Rokurokubi are known to be like Vampires. They're known to be dangerous Yokai for committing horrible deeds. Except for one. Asumi Mayako -- Born a Rokurokubi, now lives a normal life with Karita Dere. Twelve years have passed since Asumi was found in the trash can, and things have been a little complex since Karita and her family decided to adopt Asumi. Asumi still feels worried about what would happen If people found out she's a rokurokubi. However, things get complicated when Asumi's mother, Khayme Mayako is slowly crawling back into her life. Not just that - Asumi's worries and nightmares become a reality as a reunion between Yokai and humans has begun. Experience an animated trip starring a Rokurokubi with a heart of gold.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDQ1YjNiY2UtMGJiZC00YjIzLWJkOTItYmNjZTlhNWMyM2NkXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt15127142\/?ref_=sr_i_114"
+    },
+    {
+        "Movie_Id":115,
+        "Movie_Name":"Rocky and Bullwinkle",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"9.7",
+        "Reviews":"11",
+        "Movie_Runtime":"1h 40m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After the grand opening of the Museum in Frostbite Falls, Bullwinkle and Rocky somehow ended up in the village that they have never been before.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZWVhZDczZGUtNGEyNS00Y2IxLTlmNTAtZmQ5Yzg3YzhiNGUxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt35814975\/?ref_=sr_i_115"
+    },
+    {
+        "Movie_Id":116,
+        "Movie_Name":"Adam Bol",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Three reckless Kazakhstani men on a trip to America experience an emergency landing in Nigeria, which sets off series of misadventures that test their life ideals, leading to profound personal lessons.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZTljZjlhZmYtOTdiZC00YzA0LTk4NTEtN2I5MzdkOTUzNzAwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31109060\/?ref_=sr_i_116"
+    },
+    {
+        "Movie_Id":117,
+        "Movie_Name":"Soodhu Kavvum 2: Naatum Naatu Makkalum",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"3.7",
+        "Reviews":"196",
+        "Movie_Runtime":"2h 9m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A gang of kidnappers find they have bitten off more than they can chew.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTc0NDA5NTAtYWJiZC00YTI4LWIwODMtYzhlYzEwMTcwMTI2XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt14527714\/?ref_=sr_i_117"
+    },
+    {
+        "Movie_Id":118,
+        "Movie_Name":"Genis Aile 4: Cevahir & Ulvi",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.9",
+        "Reviews":"53",
+        "Movie_Runtime":"1h 30m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Ulvi and Cevahir, after a period of separation, reunite due to Ulvi's involvement in a murder case. Cevahir investigates to discovers who has been killing the people in village and framing Ulvi, who is bad at butchering.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTM0ZTAxNDEtMmNlOS00NTFmLTkyNzEtMzE0YWM0ZDU0OGY1XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32901945\/?ref_=sr_i_118"
+    },
+    {
+        "Movie_Id":119,
+        "Movie_Name":"The Yoshi Movie",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.7",
+        "Reviews":"12",
+        "Movie_Runtime":"1h 45m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A group of intelligent dinosaurs living peacefully on their island face turmoil when a madman captures them and seizes control. After escaping, they unite to reclaim their home.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjZlOTkwNzYtNDMxOS00ZjBhLWJkN2MtZGY2Y2Q5MzA4ZWFmXkEyXkFqcGc@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32536035\/?ref_=sr_i_119"
+    },
+    {
+        "Movie_Id":120,
+        "Movie_Name":"Nanoshark",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.4",
+        "Reviews":"17",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Scientists use nanotechnology to shrink a shark, which is injected into a person to cure a rare blood disorder. When the shark does more harm than good, a team of adventurers enters the bloodstream to kill the smallest shark ever.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGQyNGNhODctOGExMy00Y2Y0LWExODUtOTZkODY4OTJhZmE3XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31491803\/?ref_=sr_i_120"
+    },
+    {
+        "Movie_Id":121,
+        "Movie_Name":"Indrani: Epic-1 Dharam vs Karam",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.6",
+        "Reviews":"1.1K",
+        "Movie_Runtime":"2h 37m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In 2122 AD when world faces an imminent problem from a rogue nation, Indrani working for Indian Super Force (ISF) has to travel in time to past to find the solution for it. Story revolves around the emotional journey of Indrani.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BM2M1MjYyMWItZWQ2Ny00YWJkLTg4ZDctZjcyNTcwYTEwMmVlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31465592\/?ref_=sr_i_121"
+    },
+    {
+        "Movie_Id":122,
+        "Movie_Name":"Die Chaosschwestern und Pinguin Paul",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.7",
+        "Reviews":"66",
+        "Movie_Runtime":"1h 40m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Four chaotic sisters have to save a dancing penguin from evil magicians who want to use him for their comeback show in Las Vegas.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDQ3NTEzMzktNTdmOS00MWUxLTk1ODgtMWJhN2RlODQzYzNjXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt6647982\/?ref_=sr_i_122"
+    },
+    {
+        "Movie_Id":123,
+        "Movie_Name":"Reeza GTR",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.4",
+        "Reviews":"14",
+        "Movie_Runtime":"1h 31m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Reeza, a young man with a big heart, is on the verge of achieving his dreams. When he meets the beautiful Myra hiding in the trunk of his car, his life turns chaotic and is never the same again as she is on the run from mysterious persons.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjU2M2NlNGYtMDM1Mi00YjY4LWJhMzYtYWQyN2YwOWY3ZTg1XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33482494\/?ref_=sr_i_123"
+    },
+    {
+        "Movie_Id":124,
+        "Movie_Name":"Surge of Power: Where There's Smoke",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.3",
+        "Reviews":"12",
+        "Movie_Runtime":"1h 8m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Off the heels of \"Surge of Dawn\" delving further into the devious activities of The Council, Surge has his next team up with guest superhero, The Smoke. Audiences are already familiar with Surge, Omen, MAVIS, Will E. Bee and some members of The Council from previous \"Surge of Power\" movies, but who is Falling Apple and what is her role in The Council's evil scheme? Struggling from a lifetime of trauma, Falling Apple has discarded her civilian life as Chai Appuru for a gritty life full of anger and resentment as she seeks to exact revenge on those she believes killed her father when she was a child, putting the entire Chicago area in peril. Is Falling Apple's agenda aligned with The Council's goals? Watch as Omen guides Surge in recruiting more \"champions\" to form a superhero team to face The Council's threat.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZGI5Yzg4YWEtNjU2Yi00YzNjLWEyODctZDRmMWFhZGVmOTA0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32393674\/?ref_=sr_i_124"
+    },
+    {
+        "Movie_Id":125,
+        "Movie_Name":"Je Suis Auto",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An ill-tempered middle-management mafioso is set on delivering a suitcase full of money. Little does he know that taking an ontologically challenged self-driving taxi puts them on a collision course with fate-and a badly dressed pirate.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjgwYTVkNTAtZDI2OC00ZjkzLWJkNGQtMWUyN2ZmYjQxNThiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt8476156\/?ref_=sr_i_125"
+    },
+    {
+        "Movie_Id":126,
+        "Movie_Name":"Chhota Bheem and the Curse of Damyaan",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.8",
+        "Reviews":"2.3K",
+        "Movie_Runtime":"2h 25m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Bheem and his gang travel to the past to king Damyaan and stop him from being immortal.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BM2NjMzZmNGUtZDk4NS00ZTFkLTg0NWQtOWNkMWEzMzZlM2RiXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29114624\/?ref_=sr_i_126"
+    },
+    {
+        "Movie_Id":127,
+        "Movie_Name":"The Heist",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.9",
+        "Reviews":"2K",
+        "Movie_Runtime":"2h",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Ex-FATF agent Ananya meets a Master Con Artist Neel through the Dark Web. They form an unlikely team to conduct a heist to loot a billionaire fugitive of his ill-gotten money and disrupt his smuggling network.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNWZjNTUyMjItYjViZC00ZjVjLWEzZDEtNGEzM2QwZmIwMzg2XkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt23752842\/?ref_=sr_i_127"
+    },
+    {
+        "Movie_Id":128,
+        "Movie_Name":"Chinatown Chacha",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.1",
+        "Reviews":"55",
+        "Movie_Runtime":"1h 43m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Kie, facing tragedies, prays at a shrine, discovering her family faces karma from her gangster ancestor. She meets gang members, including her great grandfather, Khung, to prevent misfortune.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZWU1MWZlMzktZmQzMC00MmU4LWI5NTYtMDNlNWI4Yzg3NmI5XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30957694\/?ref_=sr_i_128"
+    },
+    {
+        "Movie_Id":129,
+        "Movie_Name":"Kill the Children first",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.8",
+        "Reviews":"25",
+        "Movie_Runtime":"1h 46m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A teen ballerina, her crazy in love boyfriend, and his sketchy best friend with a stolen gun, get stuck in the deepest labyrinths of crime's underworld over a misplaced cell phone that contains a compromising video.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZmFhOGJhZTgtZjgxNy00OTQ2LWFiYzMtZDAyNmZiNTQxNTYyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30420508\/?ref_=sr_i_129"
+    },
+    {
+        "Movie_Id":130,
+        "Movie_Name":"Vey Dharuvey",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.5",
+        "Reviews":"2.3K",
+        "Movie_Runtime":"2h 7m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjQ2OGMwOWMtMDJhNy00NjQ2LTlmODYtZjIwZDM1ZWNmZDBiXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt26745202\/?ref_=sr_i_130"
+    },
+    {
+        "Movie_Id":131,
+        "Movie_Name":"Bernadotte, Louise & Napoleon",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 14m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Power struggle during Napoleonic war times. The Swedish King is getting old. The country needs fresh blood. Bernadotte becomes the new Crownprince of Sweden. The french criminal\/spy Maurice manipulates at the Swedish court. By L\u00e1szl\u00f3",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZDUxMmI1NjItYjA5OS00NDcyLWJhY2UtZjUxNzNjMjYyZGVhXkEyXkFqcGc@._V1_QL75_UY207_CR153,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31644773\/?ref_=sr_i_131"
+    },
+    {
+        "Movie_Id":132,
+        "Movie_Name":"Mirg",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.3",
+        "Reviews":"35",
+        "Movie_Runtime":"1h 23m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The journey of Anil, an obedient boy, is changed after an event and bond with a colleague alters his worldview.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYzE2MjVkZDYtNmMzMi00OWIyLWIyMmMtN2U1NTE4MjkxODVmXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27055645\/?ref_=sr_i_132"
+    },
+    {
+        "Movie_Id":133,
+        "Movie_Name":"Itutumba ka ng tatay ko",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.7",
+        "Reviews":"29",
+        "Movie_Runtime":"1h 49m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Teteng, a single father and assistant to a film director, faces his last days due to a brain tumor. Despite his fear of confrontation, he becomes determined to protect his tomboyish daughter Tintin from bullies. Teteng, romantically interested in Tintin's teacher, discovers his illness and gets involved in a bar fight, leading to Tintin's kidnapping by a crime boss. With nothing to lose, Teteng fights relentlessly, showcasing his strength and love for his daughter until his final moments.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BY2YzYjk1MGUtNmFjNy00NjMyLWE3YTgtM2RhMTQ4ODkxYzliXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29942366\/?ref_=sr_i_133"
+    },
+    {
+        "Movie_Id":134,
+        "Movie_Name":"Cholay",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.6",
+        "Reviews":"53",
+        "Movie_Runtime":"1h",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Thakur, a passionate filmmaker, had one dream: to create that could capture the spice, drama, and humor of Indian life. Inspired by the classic Indian dish Cholay. After his audition he finally found his casts Veeru,Basanti,Jay and Gabbar.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjY5MmEyZGYtY2QyYi00ODhmLThmYTItMWI2NzRmMzhkY2NlXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt5798156\/?ref_=sr_i_134"
+    },
+    {
+        "Movie_Id":135,
+        "Movie_Name":"Achilles Curse and the Curse of Treasure",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.4",
+        "Reviews":"24",
+        "Movie_Runtime":"2h 5m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In the world of Achilles Curse, a curse causes humans to live healthy incredibly long lives. However, they have one soft spot in their bodies that can bring them death. A detective with a secret ability to see other Achilles' curse attends an exclusive birthday celebration day at Laurent Museum that presents a legendary treasure showcase. The event quickly takes a turn after a group of thieves rob the treasure, leading to a murder mystery. He must solve the case with an adorable scammer.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMWFhZjQ1ZDgtZjIxOS00YTZiLWI3MmUtMTQxOTVlNjY0ZjU3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33363541\/?ref_=sr_i_135"
+    },
+    {
+        "Movie_Id":136,
+        "Movie_Name":"Raja 420",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.1",
+        "Reviews":"21",
+        "Movie_Runtime":"1h 21m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Raja, an Indian immigrant, starts a new job in USA and his first client is far from \"ordinary\". Chaos ensues as they unravel a dark secret and he is forced to join hands with a man named 420 (Fraudster) to escape this thrilling situation.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOGJhZTU5MWMtNzk5My00YjFmLTk2YmEtYWI5ZWNkOGRjYTgwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31462825\/?ref_=sr_i_136"
+    },
+    {
+        "Movie_Id":137,
+        "Movie_Name":"Spotlight International Film Festival: Best of the Festival - Volume 1",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.6",
+        "Reviews":"6",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When Sean Astin, D. B. Sweeney, Michael Muhney and Jessica Roszko collide, you have a mix of the best short independent films since Sundance. Checkout the finest short films from drama to animation with a little bit of thriller and comedy.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZTEzNzczYWUtMWVhNy00MGQzLWExZDgtZGFlZTc5MGQ2MjM1XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt15943614\/?ref_=sr_i_137"
+    },
+    {
+        "Movie_Id":138,
+        "Movie_Name":"Opportunity",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"9.1",
+        "Reviews":"89",
+        "Movie_Runtime":"1h 36m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In a world where housing prices are sky-high, Patrick must choose: buy a house or live in his van forever. \"Opportunity\" follows his journey through crime and chaos battling Mormon gangsters with his friend Donnie.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZGY2YWZmOTctYmI4YS00ZmE5LTk4ODctNzllOWRmMmIxZjFiXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt15003944\/?ref_=sr_i_138"
+    },
+    {
+        "Movie_Id":139,
+        "Movie_Name":"Shri Swapankumarer Badami Hyenar Kobole",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.6",
+        "Reviews":"323",
+        "Movie_Runtime":"2h 26m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Kolkata is at risk from Badami Hyena. Dipak Chatterjee, a forgotten detective created by Shri Swapankumar, faces a complex mission. Can he save the city and himself?",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjYxNTk5MTItYzZjZC00YWNjLWI2MDEtN2Q4MjExZGRiOGQ4XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29117409\/?ref_=sr_i_139"
+    },
+    {
+        "Movie_Id":140,
+        "Movie_Name":"Pushpaka Vimanam",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.6",
+        "Reviews":"16",
+        "Movie_Runtime":"2h 17m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNWE0OWY4OWItN2Q3Mi00OTNkLTg1NTQtYjNjM2IyMWE1OWY3XkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt16227370\/?ref_=sr_i_140"
+    },
+    {
+        "Movie_Id":141,
+        "Movie_Name":"The Puffins & the Magic Portal",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.5",
+        "Reviews":"29",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In Taigasville, the wicked walrus Otto steals an ancient spellbook from the local shaman. Little does he know, this mischief opens a whimsical portal to a dream-filled dimension. Now, Otto must face insane challenges to set things right.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjk0NDliNmUtZGY5My00ZDM2LTk5ZjctZjJjMTg5OTk2NWNmXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30146664\/?ref_=sr_i_141"
+    },
+    {
+        "Movie_Id":142,
+        "Movie_Name":"Gull Lake Vice II: The Delusion Continues",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.2",
+        "Reviews":"16",
+        "Movie_Runtime":"58m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In this second and unneeded installment, the Delusion is so Strong that Brandon and Elliot Find themselves in a Real Narrative Film as Two Washed-up Vice Cops Resurrected from Retirement and Assigned to take down a Dangerous group of Criminals Dealing Drugs, Distributing Guns and Trafficking Women around the Gull Lake area.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjc1OWViMDgtZGFlOC00ZTc5LTk0YTgtNjVjN2FiMjk2ZjEyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28743123\/?ref_=sr_i_142"
+    },
+    {
+        "Movie_Id":143,
+        "Movie_Name":"ChickenMan",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.8",
+        "Reviews":"7",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When a crustacean themed-villain rampages through the city, killing those who enjoy seafood, it is up to one man to stop him. One man, dressed like a chicken.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDM4MGViMWItY2M2MC00NTg4LWE2ZjEtNDEwZjA2Yzk0YWEzXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31250810\/?ref_=sr_i_143"
+    },
+    {
+        "Movie_Id":144,
+        "Movie_Name":"Z\u00e9nithal",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.3",
+        "Reviews":"70",
+        "Movie_Runtime":"1h 20m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Together for 10 years, Francis and Sonia no longer understand each other. While they try to save their relationship, Francis finds himself accused of the murder of his former rival Ti-Kong. Fleeing from the police, he falls into the clutches of a rogue surgeon, determined to defend male domination at any cost. Sonia then takes action to rescue Francis, save their relationship, and restore peace between the sexes.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMWYyODYxNmYtNjJlZC00MWY4LWI0YzktYjZjNDQ4MTQwODM3XkEyXkFqcGc@._V1_QL75_UY207_CR6,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27788030\/?ref_=sr_i_144"
+    },
+    {
+        "Movie_Id":145,
+        "Movie_Name":"El Duro",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.9",
+        "Reviews":"12",
+        "Movie_Runtime":"1h 30m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BY2FkMDRiMjktNGM4MC00ZTc5LTg0NjQtYTIxZjMzM2U2OWJiXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt20881632\/?ref_=sr_i_145"
+    },
+    {
+        "Movie_Id":146,
+        "Movie_Name":"Operation Wakaliga: Fate and Blood",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.7",
+        "Reviews":"11",
+        "Movie_Runtime":"1h 6m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The Ugandan tiger mafia kidnaps the son of prime minster of Israel. In order to rescue him, the State of Israel sends a pair of special commando fighters to Uganda, whose partnership was broken up by a bitter conflict in the past.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjEyNzA4MDMtYWQ2NS00M2JjLWJkZTUtYTdmYTEwOGVhNTdkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33039198\/?ref_=sr_i_146"
+    },
+    {
+        "Movie_Id":147,
+        "Movie_Name":"A Reel Heist",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.2",
+        "Reviews":"58",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A group of teenagers making a no-budget heist movie are forced to pull off a genuine heist, when the memory card containing their film is taken by the callous manager of a shopping mall.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNzgzNjFkZTQtNTA2OS00ZDViLWEzZTUtM2IxMzZjZTNhZTRkXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt21622382\/?ref_=sr_i_147"
+    },
+    {
+        "Movie_Id":148,
+        "Movie_Name":"The Veyshal Movie",
+        "Movie_type":"13+",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"2h",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The film revolves around the story of two people, 1Leon and Veyshal, where they go through an enemies-to-friends arc, while encountering a criminal possessed with otherworldly powers.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMzA3YzA2MzUtOGFlNi00ZjNmLWJkOTAtNTE3Mjg2OTRlMDBmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31240156\/?ref_=sr_i_148"
+    },
+    {
+        "Movie_Id":149,
+        "Movie_Name":"Lolipop Gang",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 30m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A dark comedy about a no name wanna be Rhode Island gangster by the name of Nick Sargenti and his goofy group of untalented misfits. The story focuses around a documentary filmmaker following Nick and is group of wannabe gangster's.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BY2I0MDhhOWMtMzYwNS00YTg3LTkyZWMtMzVmYjBiZTk5MDFiXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt9481630\/?ref_=sr_i_149"
+    },
+    {
+        "Movie_Id":150,
+        "Movie_Name":"Youn'G",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.9",
+        "Reviews":"49",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Youn'G is a coming-of-age dramedy about a teenage boy who, with the help of his close friends, fights for his true love while at the same time discovering his cool neighborhood mentor is his father. Youn'G finds his way through the craziness of life, friendships, and family...all in three days.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDY0ZTMzMzctYjcwMi00Y2JiLWI3YjMtM2ZhYzYwZjFiMzA4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt10442852\/?ref_=sr_i_150"
+    },
+    {
+        "Movie_Id":151,
+        "Movie_Name":"Taxi Bied 2",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 40m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjg3NmUwZjctNjJlMC00ODdkLTk5Y2UtNTdhYzEwZDY3NGM4XkEyXkFqcGc@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33083842\/?ref_=sr_i_151"
+    },
+    {
+        "Movie_Id":152,
+        "Movie_Name":"They're Here",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 14m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A community of New Yorkers experiences close encounters with UFOs, prompting lifestyle changes as they grapple with the implications.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjE1OTExYzYtYTg0Yi00NGEwLTgyYzYtOGY1ZTg2M2IwNzBmXkEyXkFqcGc@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32150467\/?ref_=sr_i_152"
+    },
+    {
+        "Movie_Id":153,
+        "Movie_Name":"Bodyguard for Sweetheart",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"2h 7m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A teenager from a wealthy family is about to be kidnapped. Her father does not trust the presumably corrupt security company and asks a friend to take over the job for a short time. He reluctantly agrees.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYWMyNzQ3MmYtZGJhZS00M2M2LTljOGEtOGY1YjU5MjY0ZGYyXkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32254400\/?ref_=sr_i_153"
+    },
+    {
+        "Movie_Id":154,
+        "Movie_Name":"Nenu Keerthana",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"9.0",
+        "Reviews":"2K",
+        "Movie_Runtime":"2h 35m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"EXPERIENCE THE POWER PACKED ACTION TOUCHING MULTI GENRE'S. OVERCOMING THE EVIL ACTS, HOW JOHNNY HELPS THE VILLAGE PEOPLE WITH BREATHTAKING HOOK DRIVES AUDIENCE OF CLASS AND MASS INTO ANOTHER WORLD",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmMyMjAwNTgtNGViNi00YzFiLTgzYzQtODMyODQzYzcxZDA1XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32130925\/?ref_=sr_i_154"
+    },
+    {
+        "Movie_Id":155,
+        "Movie_Name":"No More Awesome Action Movies",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 20m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Hector Soberon, fakes his death in order to avoid his problems. It only complicates things when people find out he is still alive.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BODMxZDFhN2UtNmU5NS00MWM5LTk4Y2QtZWYxM2JkYjM4Yzk0XkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32161271\/?ref_=sr_i_155"
+    },
+    {
+        "Movie_Id":156,
+        "Movie_Name":"The Kills",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"8.8",
+        "Reviews":"8",
+        "Movie_Runtime":"1h 10m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A belligerent hit woman navigates a world of cutthroat killers as she attempts to get the money together to start a bar down in Mexico.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNzZmY2RlZjYtZjYzOC00MDcwLThhOWQtMzNiNjVhZTE1Y2Y3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31100533\/?ref_=sr_i_156"
+    },
+    {
+        "Movie_Id":157,
+        "Movie_Name":"Uncanny Alley: A New Day",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In a world where tech giant Adaptive Learning pushes controversial legislation, digital citizens face an imminent threat as radio waves threaten to erase their memories.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjM4YTczZjctZDMwYS00NDZjLWJiNzctMzQwYjgzOGMyMDFkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32986283\/?ref_=sr_i_157"
+    },
+    {
+        "Movie_Id":158,
+        "Movie_Name":"Best Cop Ever",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.4",
+        "Reviews":"48",
+        "Movie_Runtime":"2h 2m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Two different movies are clashing, causing reality to fall into chaos. An immortal hero is leaving a path of destruction on a lighthearted world. It's now up to Ever to find him, and rebel against the higher powers that doomed them.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNWRjMTQ2YzQtYjUzNy00MTAxLTliNWQtMGQ0OGFjOGEwZWM5XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32828584\/?ref_=sr_i_158"
+    },
+    {
+        "Movie_Id":159,
+        "Movie_Name":"Weerya",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYmU4Y2YxYjMtYTdlNS00ZTc5LTk3NGQtZTdkZDNmNTE2ZTRmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt9717004\/?ref_=sr_i_159"
+    },
+    {
+        "Movie_Id":160,
+        "Movie_Name":"Combat Code: Hunt",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"7.4",
+        "Reviews":"17",
+        "Movie_Runtime":"1h 16m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A fencing athlete and aspiring soldier becomes entangled in a crisis involving his brother, manipulated by a sinister organization. This group triggers the \"Code : Hunt\" to eliminate a team accountable for the enigmatic murders.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BZjdmMDMwNzQtMWNkNS00NTk2LTkzMDAtMmFjZjZhNjg3MmY3XkEyXkFqcGc@._V1_QL75_UY207_CR160,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32119112\/?ref_=sr_i_160"
+    },
+    {
+        "Movie_Id":161,
+        "Movie_Name":"Gintama the Movie 2D: Courtesan of the Nation Arc",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 49m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32550934\/?ref_=sr_i_161"
+    },
+    {
+        "Movie_Id":162,
+        "Movie_Name":"Toughen Up",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A gay Black high-school drama teacher's ordinary life is shattered when he's forced to unleash his lethal skill set to unravel a sinister conspiracy, battling ruthless adversaries in a nonstop, action-packed pursuit of justice.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33323589\/?ref_=sr_i_162"
+    },
+    {
+        "Movie_Id":163,
+        "Movie_Name":"Opasni shmatki",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.1",
+        "Reviews":"18",
+        "Movie_Runtime":"1h 32m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32292858\/?ref_=sr_i_163"
+    },
+    {
+        "Movie_Id":164,
+        "Movie_Name":"Happy Dragons",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"4.9",
+        "Reviews":"9",
+        "Movie_Runtime":"1h 37m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"A retired secret agent happens across the mahjong collection of his late comrade-in-arms. He invites his three childhood friends to play, but when they start the game, they are sent on a real-life quest to find the \"Golden Relic\". The quest turns back time, making everyone young again. Determined to right some wrongs from the past during this journey, they deepen their friendship and learn new things along the way.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BM2NjNDFmMGUtYjVlMC00NGM1LThlZjctM2ZmMzg0NTdkOTNjXkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31261135\/?ref_=sr_i_164"
+    },
+    {
+        "Movie_Id":165,
+        "Movie_Name":"The Puffins: Arctic Games",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In peaceful Taigasville, the Puffins enjoy carefree days filled with arctic games, and even lazy Otto Von Walrus loves his picnics. But when a surprise snowstorm strikes, the Puffins must rally together to save their world. Otto included.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGU5YWMyYTItYWYzMy00MDEzLTgxN2YtNDczOGE5NDNiMTVmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30146574\/?ref_=sr_i_165"
+    },
+    {
+        "Movie_Id":166,
+        "Movie_Name":"Woodland",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BODVlMDA1YjctZDRiZC00MTA0LThmYjMtZGRjYzk5NzE2YzBmXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt35697659\/?ref_=sr_i_166"
+    },
+    {
+        "Movie_Id":167,
+        "Movie_Name":"Bloods of Glasgow",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"51m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Glasgow, 1997. A city divided. Protestant or Catholic? Rangers or Celtic? For local gang member Chas Stones however, only one question matters. Oasis or Blur?",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMmZmYTljNDUtM2RkNS00MjI2LWE0M2EtMmJkZWEwNDdmZWZlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32400006\/?ref_=sr_i_167"
+    },
+    {
+        "Movie_Id":168,
+        "Movie_Name":"Sounds Like A Great Project!",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 15m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"An aspiring filmmaker downloads an AI app that promises to create films instantly, but quickly realizes that the AI's imagination is excessively extravagant.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmNiOWQxMjMtOWRkZC00OWMxLThlMDQtYjVlNDFhYTEwNWMwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30275493\/?ref_=sr_i_168"
+    },
+    {
+        "Movie_Id":169,
+        "Movie_Name":"EP Break the Multiverse",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 16m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The EP team invents a machinima making device, but a malfunction brings characters from their past films into reality. Now, they must race against time to send them back before the sinister Entity_303 takes over their world.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BM2NkZTBhZmItZjQ2Zi00YWJmLWI1MzEtNDA0ZDA1ZjMzNzkyXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29117986\/?ref_=sr_i_169"
+    },
+    {
+        "Movie_Id":170,
+        "Movie_Name":"The Plush Series Movie 2 REMASTERED",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"43m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In this remake of The Plush Series Movie 2: The Second One (2020) and sequel to The Plush Series Movie REMASTERED (2023) Mario finds his long lost brother Luigi, but things go wrong when Bowser and Kamek return and kidnap Mario and Shy Guy. Now it's up to Luigi, Ferris, and Yoshi to save them.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNWY1MjRmZGYtYzYzMy00YjA5LWEyM2MtMjlhYThiNjU3YWJlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt34992413\/?ref_=sr_i_170"
+    },
+    {
+        "Movie_Id":171,
+        "Movie_Name":"Give Me Babies",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"6.7",
+        "Reviews":"6",
+        "Movie_Runtime":"23m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Give Me Babies follows an Indian-Chinese MMA fighter as she tries to escape mounting pressure from her family to start a family.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDMwMzY0ZDEtZDQ3Ni00MWEzLTljZDUtOGRkZmEwZmU5MDBhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32637137\/?ref_=sr_i_171"
+    },
+    {
+        "Movie_Id":172,
+        "Movie_Name":"LA Minute",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"R",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Jack Cullison lead the cast of L.A Minute, an all-star crime drama\/ dark comedy in which a regular guy steals the identity of a wealthy accountant only to later learn that he's actually impersonating a hitman. Lewis (Cullison) seems to have a run of bad luck. He allows others to treat him like a welcome mat. He eventually is fed up with his life. By a chance encounter he steals the identity of an accountant that seems to have it all, girls, cars, and money. Lewis later learns that it's not all its cracked up to be when he finds out that he is impersonating a hitman. By this time he's in too deep to get out and is blackmailed by Detective Garrison (Irwin) who forces him to continue playing the role or else. His buddy Benedict (Murphy) helps him on his journey.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt2756216\/?ref_=sr_i_172"
+    },
+    {
+        "Movie_Id":173,
+        "Movie_Name":"Unidad 23: Recargada",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The Unit23 must protect young witnesses and solve a series of mysterious murders.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMzAwNDQyOGYtMzI1NS00NDQ5LWI3ZGMtMzlkZGI1YzEyMzBjXkEyXkFqcGc@._V1_QL75_UX140_CR0,28,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt10303912\/?ref_=sr_i_173"
+    },
+    {
+        "Movie_Id":174,
+        "Movie_Name":"Mahserin \u00dc\u00e7 Delisi",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"5.9",
+        "Reviews":"15",
+        "Movie_Runtime":"1h 18m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Three patients being treated for Social Phobia, Schizophrenia and Multiple Personality are mistaken for three criminals during a hospital transfer and kidnapped by a criminal organization.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmQ0NjY5NzEtY2Q3YS00YTFjLWExMWQtNTRkMjIxNDI2Mjc5XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt8387526\/?ref_=sr_i_174"
+    },
+    {
+        "Movie_Id":175,
+        "Movie_Name":"The Perfect Side Order",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Working at the smoke shop the guys make a bet on who can get the most numbers in a month. But once Jujuan granddaddy passed away, he is now faced with the most challenging task he has ever faced. \"Responsibility\"",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDliMDQ3YWYtOTVlMC00ODZlLTk4OTctZThkZDc3MmU3ZjlhXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32732455\/?ref_=sr_i_175"
+    },
+    {
+        "Movie_Id":176,
+        "Movie_Name":"ZombieCON Vol 1",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNjQxYTJiMTItZTAwZS00MWM0LTk3ZTgtMzkzNzJhZTYxZDE5XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33481705\/?ref_=sr_i_176"
+    },
+    {
+        "Movie_Id":177,
+        "Movie_Name":"Wrong Number",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMDVlYTI1Y2ItZDM3Ny00N2Q0LTg1N2MtN2JmMWZiN2Q1ZjZkXkEyXkFqcGc@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32799496\/?ref_=sr_i_177"
+    },
+    {
+        "Movie_Id":178,
+        "Movie_Name":"Big Jon",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Two former friends from the Marine Corps must reconcile and settle their old feud to battle a corrupt property developer.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmJjZDE0N2EtNGZkYy00M2U4LWExMjYtNjg5MzZkNGMyYzYwXkEyXkFqcGc@._V1_QL75_UY207_CR22,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30494900\/?ref_=sr_i_178"
+    },
+    {
+        "Movie_Id":179,
+        "Movie_Name":"Gally Gang Stars",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"9.0",
+        "Reviews":"2K",
+        "Movie_Runtime":"2h 37m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Gandhi an orphan leads his life doing all wrong things accompanied by his childhood friend Quarter. Gold Reddy a well known rowdy of that village causes more trouble to both Gandhi. Gandhi avenge Gold Reddy.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjZiMDUwZWEtNDEyNy00NWE5LTg4MTMtZWY0MGM3OTA4NjI1XkEyXkFqcGc@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27426266\/?ref_=sr_i_179"
+    },
+    {
+        "Movie_Id":180,
+        "Movie_Name":"Kyle and the Last Emerald",
+        "Movie_type":"TV-PG",
+        "Release_Date":"2024",
+        "Rateing":"5.6",
+        "Reviews":"17",
+        "Movie_Runtime":"20m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After moving, Kyle meets a man who warns that evil people seek an emerald that could doom the world. Kyle and friends search for it to stop the villains.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMTYxYzQ1MDgtMjM2MS00NjNkLThlODUtZWIxMzRkMzgzY2RkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt27732267\/?ref_=sr_i_180"
+    },
+    {
+        "Movie_Id":181,
+        "Movie_Name":"Sidequest!",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 20m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Three friends Eddie, Paul and Patrick, who are bored with their jobs decide to build a blanket fort in their living room. Now trapped by the fantastical monsters created inside of the fort They devise a plan to tear down the fort.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt35738569\/?ref_=sr_i_181"
+    },
+    {
+        "Movie_Id":182,
+        "Movie_Name":"Bambara Wasanthe",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 41m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Ishara, the only beautiful young daughter of an elderly wealthy plantation owner, Clifford, is attacked by extortionists. Clifford has to pay ransom money to save his daughter. However, when the ransom is paid, the police intervene and try to catch the extortionists, but they run away. Meanwhile, three young men are recruited for new jobs in the tea plantation. A love affair develops between one of the young men, the handsome Sameera, and Clifford's daughter Ishara. Greshan, the estate superintendent, who is strict about this, objects to it. He maintains a secret relationship with Clifford's young wife Sherin. Soon Sherin gets murdered and Ishara and Sameera tries to uncover the secrets behind the murder but then unexpectedly, Ishara gets kidnapped again, and its upto Sameera to solve all the mystries and save Ishara.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTUyODk2ZjQtMzZjZi00YzE0LWE1NzAtM2UxZmQ1Nzc5MjJlXkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30272497\/?ref_=sr_i_182"
+    },
+    {
+        "Movie_Id":183,
+        "Movie_Name":"Operation White Elephant",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"45m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Two American secret agents must work together to infiltrate a suburban Christmas party, stop an exchange between undercover Soviet agents, and try not to kill each other in the process.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMTFiMTAxMWQtNTdkYy00ZjZkLWI4ZDEtMzk5NDBkMTkyNDE2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt35050083\/?ref_=sr_i_183"
+    },
+    {
+        "Movie_Id":184,
+        "Movie_Name":"Manomani",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMmQ5MDU3NDItMGI5My00M2QzLThiMDItZGFhNDQxZTAyOTY3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt28787193\/?ref_=sr_i_184"
+    },
+    {
+        "Movie_Id":185,
+        "Movie_Name":"Zen Fist",
+        "Movie_type":"16+",
+        "Release_Date":"2024",
+        "Rateing":"7.2",
+        "Reviews":"8",
+        "Movie_Runtime":"45m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After a nuclear war, societal norms collapse. Ken, a peacekeeper, battles lawlessness, haunted by his sister's death. Facing tyrannical rule, he embodies Zen, seeking to reform himself and his foes through training and resolve.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOGQ2MzYxZDktYTQ0MS00YjBkLWJiMGItZGZlOTExZmE4ZjZiXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31492821\/?ref_=sr_i_185"
+    },
+    {
+        "Movie_Id":186,
+        "Movie_Name":"Vakoojakoulun Varamiehet",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"48m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"The Spy School selects a group of unlucky morons for a suicide mission with an inhuman pruning mechanism that only a blind priest and a cleaner survive. Even though they are there by accident. They are drawn into a world of international terror. There is confusion, mayhem, splatter and intense action. Can the heroes avoid certain death and save the world while the school's egoistic general, sadistic secret agent and suicidal education planner breathe down their necks?",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNDdlODhkZDgtZDlmZi00N2NjLTg0ZTMtMWU4NjEyM2Y3OTQzXkEyXkFqcGc@._V1_QL75_UY207_CR17,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31614338\/?ref_=sr_i_186"
+    },
+    {
+        "Movie_Id":187,
+        "Movie_Name":"Cord\u00e9licos",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 8m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNmNkOWUwZjEtZDA0Mi00MjZhLThiMWEtYWZjZjk3ZGZmZjNiXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33096558\/?ref_=sr_i_187"
+    },
+    {
+        "Movie_Id":188,
+        "Movie_Name":"There's Something About Knuckles Saga",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"46m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33502074\/?ref_=sr_i_188"
+    },
+    {
+        "Movie_Id":189,
+        "Movie_Name":"Kek 2",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 38m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Taking place before the events of the first movie, the world is in agony due to the 28 World Wars that occurred as a result of the 'TAX WARS. John Adams is summoned to the year 2021. However, after he meets GUY 8, the manhunt begins.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGQ4OGMzZTEtMThmZC00Zjg5LTlkZGQtMTM0YzgyOTNmNmVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31888121\/?ref_=sr_i_189"
+    },
+    {
+        "Movie_Id":190,
+        "Movie_Name":"Blue Alliance",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 14m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When an Italian mobster kidnaps a woman in Miami and escapes to Switzerland a Miami PD Special Agent follows him and collaborates with an officer from there to bring the suspect to justice. However nothing goes as planned.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNzMzZmFmM2QtOTM2MS00Y2E0LTg4ZGEtY2M4ZWI1ODQ3NTgwXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29952065\/?ref_=sr_i_190"
+    },
+    {
+        "Movie_Id":191,
+        "Movie_Name":"Kyle and the Last Emerald 2",
+        "Movie_type":"TV-PG",
+        "Release_Date":"2024",
+        "Rateing":"8.4",
+        "Reviews":"7",
+        "Movie_Runtime":"15m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"After Kyle and Jake got Kidnapped, Kyle finds out that Ed and Denny Tries to steal The Last Emerald to Doom the World. Kyle and Jake are having a quest to Stop them for stealing The Last Emerald.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BODY2MTZlOTQtNTE5MS00MjJiLTkyNzItZGFmYzkxOWQ4NDQ4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt31947101\/?ref_=sr_i_191"
+    },
+    {
+        "Movie_Id":192,
+        "Movie_Name":"Sharp Instinct: Volume II",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 53m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Malcolm Lyons is back - and he has a vengeance. It's up to the team to rescue his hostages before time runs out, and people begin to die.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BOTlhODJiYjMtMTM3ZC00YjA0LTg2ZjgtOGNkYzZiOWExYTRkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33448973\/?ref_=sr_i_192"
+    },
+    {
+        "Movie_Id":193,
+        "Movie_Name":"SNSOB - Supernatural Squad of Badasses Part 1",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"When The Supernatural Squad of Badasses come across a real threat in the demons, they put their YouTube job aside and try to kill these demons before they cause chaos on the entire world.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjgwNWEwMTMtNzJmOS00YjYxLTg0ZDMtODRlOTY3MDFlOGU5XkEyXkFqcGc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt14726786\/?ref_=sr_i_193"
+    },
+    {
+        "Movie_Id":194,
+        "Movie_Name":"Robo Puffin",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"In a whimsical adventure, Otto Van Walrus creates a mischievous RoboPuffin to outshine the real puffins. Led by Johnny Puff, the feathered friends train to defend their home. Join the fun as they battle wits and show the power of teamwork.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTQ0ZWY5NzctNWQ1NS00NjIxLTk3MjYtNDQ4NWRlYzU1MzA4XkEyXkFqcGc@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30146794\/?ref_=sr_i_194"
+    },
+    {
+        "Movie_Id":195,
+        "Movie_Name":"Bob & Milo",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"54m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"World famous detective Milo Thorne partners with Bob the bumbling buffoon to solve a murder mystery. Can they follow leads, bust drug deals, and stop the Italian mafia before its too late?",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33165272\/?ref_=sr_i_195"
+    },
+    {
+        "Movie_Id":196,
+        "Movie_Name":"SNSOB - Supernatural Squad of Badasses Part 2",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"No Data",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Following the events of Part 1, after the death of James, his long lost sister Penelope James aligns herself with the S.N.S.O.B crew to defeat Lucifer and his gang of demons. This is the second part of the two part saga of The Supernatural Squad of Badasses story featuring new and familiar faces.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMjc5N2VmYWYtZTc2Yi00NjBhLWE1NDAtYWM4YzQ1NGVmMTQ5XkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30842302\/?ref_=sr_i_196"
+    },
+    {
+        "Movie_Id":197,
+        "Movie_Name":"Some Deep-Fried Trouble",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"48m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Det. Marino Scarnadi, a former NYPD detective turned college security guard, teams up with a local college student to find his missing date. However, what they uncover is much bigger than they imagined, including a major kidnapping plot, with some unexpected, familiar ties.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BYjg2MDM0ODItYjQ5My00NDIxLWFlMDQtMmFmZGM5MWQwYTM2XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt30890504\/?ref_=sr_i_197"
+    },
+    {
+        "Movie_Id":198,
+        "Movie_Name":"The End of Roblox City",
+        "Movie_type":"TV-14",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"2h 44m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"William leads a normal life in the bustling metropolis, navigating the pixelated streets until an unexpected catastrophic event suddenly shakes Roblox City.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BMWE3MDVkNjEtZDRkZS00MjZkLTk3MDctODkzY2E4NTkwYjVjXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt29961199\/?ref_=sr_i_198"
+    },
+    {
+        "Movie_Id":199,
+        "Movie_Name":"Five Nights at Freddy's Minecraft Roleplay Movie",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 24m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Set in October of 2024, Squidy and Em get a job at an old and rundown pizzeria from the 2000s. They slowly figure out the mystery behind Freddy's and begin to regret their decision of ever achieving this job.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNTY2MTY0NjEtNzBmMi00MDM0LTliODktMDc5ZGM1NTE3ZDU1XkEyXkFqcGc@._V1_QL75_UY207_CR114,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt34376267\/?ref_=sr_i_199"
+    },
+    {
+        "Movie_Id":200,
+        "Movie_Name":"Migrant Harvester",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"2h 3m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt33682236\/?ref_=sr_i_200"
+    },
+    {
+        "Movie_Id":201,
+        "Movie_Name":"SITV Presents: Tabsentia",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 20m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"Greysnow and Mr. Triangle must work together when one morning, Tabsnow has been erased, and none of his friends can remember him except for them.. and they seem surprisingly chummy with Yellowsnow.",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"https:\/\/m.media-amazon.com\/images\/M\/MV5BNGNmZTg3ZDEtZjFmYi00ZWI3LWFlZDctZjkyNTI2MWVlNDE2XkEyXkFqcGc@._V1_QL75_UY207_CR5,0,140,207_.jpg",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt32245335\/?ref_=sr_i_201"
+    },
+    {
+        "Movie_Id":202,
+        "Movie_Name":"My Super Heroine",
+        "Movie_type":"No Data",
+        "Release_Date":"2024",
+        "Rateing":"No Data",
+        "Reviews":"No Data",
+        "Movie_Runtime":"1h 33m",
+        "Movie_Genre":[
+            "action",
+            "comedy"
+        ],
+        "Movie_Plot":"No Data",
+        "Metacritic":"No Data Metascore",
+        "Movie_Image":"No Data",
+        "Movie_url":"https:\/\/www.imdb.com\/title\/tt36192034\/?ref_=sr_i_202"
+    }
+]
